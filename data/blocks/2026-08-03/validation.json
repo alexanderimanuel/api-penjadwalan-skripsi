@@ -1,0 +1,655 @@
+{
+  "status": "passed_extraction_checks",
+  "pages": 85,
+  "blocks": 1089,
+  "summary": {
+    "kelas": {
+      "lesson_blocks": 513,
+      "jp": 1215,
+      "kbm_minutes": 53100,
+      "fixed_blocks": 54
+    },
+    "guru": {
+      "lesson_blocks": 522,
+      "jp": 1242,
+      "kbm_minutes": 54285,
+      "fixed_blocks": 0
+    }
+  },
+  "page_recap": [
+    {
+      "source": "kelas",
+      "page": 1,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 2,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 3,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 4,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 5,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 6,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 7,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 8,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 9,
+      "lesson_blocks": 19,
+      "jp": 47,
+      "kbm_minutes": 2050
+    },
+    {
+      "source": "kelas",
+      "page": 10,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 11,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 12,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 13,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 14,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 15,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 16,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 17,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 18,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 19,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 20,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 21,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 22,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 23,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 24,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 25,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 26,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "kelas",
+      "page": 27,
+      "lesson_blocks": 19,
+      "jp": 44,
+      "kbm_minutes": 1925
+    },
+    {
+      "source": "guru",
+      "page": 1,
+      "lesson_blocks": 0,
+      "jp": 0,
+      "kbm_minutes": 0
+    },
+    {
+      "source": "guru",
+      "page": 2,
+      "lesson_blocks": 6,
+      "jp": 15,
+      "kbm_minutes": 665
+    },
+    {
+      "source": "guru",
+      "page": 3,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1045
+    },
+    {
+      "source": "guru",
+      "page": 4,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1060
+    },
+    {
+      "source": "guru",
+      "page": 5,
+      "lesson_blocks": 8,
+      "jp": 24,
+      "kbm_minutes": 1070
+    },
+    {
+      "source": "guru",
+      "page": 6,
+      "lesson_blocks": 10,
+      "jp": 25,
+      "kbm_minutes": 1105
+    },
+    {
+      "source": "guru",
+      "page": 7,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1050
+    },
+    {
+      "source": "guru",
+      "page": 8,
+      "lesson_blocks": 9,
+      "jp": 27,
+      "kbm_minutes": 1195
+    },
+    {
+      "source": "guru",
+      "page": 9,
+      "lesson_blocks": 10,
+      "jp": 28,
+      "kbm_minutes": 1225
+    },
+    {
+      "source": "guru",
+      "page": 10,
+      "lesson_blocks": 11,
+      "jp": 24,
+      "kbm_minutes": 1045
+    },
+    {
+      "source": "guru",
+      "page": 11,
+      "lesson_blocks": 9,
+      "jp": 18,
+      "kbm_minutes": 790
+    },
+    {
+      "source": "guru",
+      "page": 12,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1060
+    },
+    {
+      "source": "guru",
+      "page": 13,
+      "lesson_blocks": 6,
+      "jp": 6,
+      "kbm_minutes": 260
+    },
+    {
+      "source": "guru",
+      "page": 14,
+      "lesson_blocks": 10,
+      "jp": 25,
+      "kbm_minutes": 1085
+    },
+    {
+      "source": "guru",
+      "page": 15,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1065
+    },
+    {
+      "source": "guru",
+      "page": 16,
+      "lesson_blocks": 7,
+      "jp": 7,
+      "kbm_minutes": 310
+    },
+    {
+      "source": "guru",
+      "page": 17,
+      "lesson_blocks": 4,
+      "jp": 12,
+      "kbm_minutes": 510
+    },
+    {
+      "source": "guru",
+      "page": 18,
+      "lesson_blocks": 8,
+      "jp": 24,
+      "kbm_minutes": 1040
+    },
+    {
+      "source": "guru",
+      "page": 19,
+      "lesson_blocks": 12,
+      "jp": 30,
+      "kbm_minutes": 1305
+    },
+    {
+      "source": "guru",
+      "page": 20,
+      "lesson_blocks": 9,
+      "jp": 27,
+      "kbm_minutes": 1180
+    },
+    {
+      "source": "guru",
+      "page": 21,
+      "lesson_blocks": 13,
+      "jp": 26,
+      "kbm_minutes": 1145
+    },
+    {
+      "source": "guru",
+      "page": 22,
+      "lesson_blocks": 4,
+      "jp": 12,
+      "kbm_minutes": 510
+    },
+    {
+      "source": "guru",
+      "page": 23,
+      "lesson_blocks": 9,
+      "jp": 24,
+      "kbm_minutes": 1040
+    },
+    {
+      "source": "guru",
+      "page": 24,
+      "lesson_blocks": 8,
+      "jp": 17,
+      "kbm_minutes": 765
+    },
+    {
+      "source": "guru",
+      "page": 25,
+      "lesson_blocks": 9,
+      "jp": 27,
+      "kbm_minutes": 1185
+    },
+    {
+      "source": "guru",
+      "page": 26,
+      "lesson_blocks": 10,
+      "jp": 25,
+      "kbm_minutes": 1105
+    },
+    {
+      "source": "guru",
+      "page": 27,
+      "lesson_blocks": 8,
+      "jp": 24,
+      "kbm_minutes": 1045
+    },
+    {
+      "source": "guru",
+      "page": 28,
+      "lesson_blocks": 10,
+      "jp": 25,
+      "kbm_minutes": 1075
+    },
+    {
+      "source": "guru",
+      "page": 29,
+      "lesson_blocks": 12,
+      "jp": 33,
+      "kbm_minutes": 1445
+    },
+    {
+      "source": "guru",
+      "page": 30,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1055
+    },
+    {
+      "source": "guru",
+      "page": 31,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1035
+    },
+    {
+      "source": "guru",
+      "page": 32,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1060
+    },
+    {
+      "source": "guru",
+      "page": 33,
+      "lesson_blocks": 4,
+      "jp": 12,
+      "kbm_minutes": 540
+    },
+    {
+      "source": "guru",
+      "page": 34,
+      "lesson_blocks": 7,
+      "jp": 7,
+      "kbm_minutes": 305
+    },
+    {
+      "source": "guru",
+      "page": 35,
+      "lesson_blocks": 9,
+      "jp": 24,
+      "kbm_minutes": 1045
+    },
+    {
+      "source": "guru",
+      "page": 36,
+      "lesson_blocks": 10,
+      "jp": 25,
+      "kbm_minutes": 1095
+    },
+    {
+      "source": "guru",
+      "page": 37,
+      "lesson_blocks": 10,
+      "jp": 27,
+      "kbm_minutes": 1175
+    },
+    {
+      "source": "guru",
+      "page": 38,
+      "lesson_blocks": 12,
+      "jp": 27,
+      "kbm_minutes": 1180
+    },
+    {
+      "source": "guru",
+      "page": 39,
+      "lesson_blocks": 9,
+      "jp": 27,
+      "kbm_minutes": 1180
+    },
+    {
+      "source": "guru",
+      "page": 40,
+      "lesson_blocks": 11,
+      "jp": 29,
+      "kbm_minutes": 1260
+    },
+    {
+      "source": "guru",
+      "page": 41,
+      "lesson_blocks": 9,
+      "jp": 24,
+      "kbm_minutes": 1045
+    },
+    {
+      "source": "guru",
+      "page": 42,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1055
+    },
+    {
+      "source": "guru",
+      "page": 43,
+      "lesson_blocks": 5,
+      "jp": 14,
+      "kbm_minutes": 615
+    },
+    {
+      "source": "guru",
+      "page": 44,
+      "lesson_blocks": 14,
+      "jp": 28,
+      "kbm_minutes": 1235
+    },
+    {
+      "source": "guru",
+      "page": 45,
+      "lesson_blocks": 12,
+      "jp": 24,
+      "kbm_minutes": 1045
+    },
+    {
+      "source": "guru",
+      "page": 46,
+      "lesson_blocks": 5,
+      "jp": 14,
+      "kbm_minutes": 595
+    },
+    {
+      "source": "guru",
+      "page": 47,
+      "lesson_blocks": 3,
+      "jp": 9,
+      "kbm_minutes": 370
+    },
+    {
+      "source": "guru",
+      "page": 48,
+      "lesson_blocks": 11,
+      "jp": 29,
+      "kbm_minutes": 1265
+    },
+    {
+      "source": "guru",
+      "page": 49,
+      "lesson_blocks": 3,
+      "jp": 6,
+      "kbm_minutes": 260
+    },
+    {
+      "source": "guru",
+      "page": 50,
+      "lesson_blocks": 10,
+      "jp": 24,
+      "kbm_minutes": 1050
+    },
+    {
+      "source": "guru",
+      "page": 51,
+      "lesson_blocks": 10,
+      "jp": 30,
+      "kbm_minutes": 1300
+    },
+    {
+      "source": "guru",
+      "page": 52,
+      "lesson_blocks": 4,
+      "jp": 12,
+      "kbm_minutes": 525
+    },
+    {
+      "source": "guru",
+      "page": 53,
+      "lesson_blocks": 5,
+      "jp": 15,
+      "kbm_minutes": 660
+    },
+    {
+      "source": "guru",
+      "page": 54,
+      "lesson_blocks": 12,
+      "jp": 31,
+      "kbm_minutes": 1350
+    },
+    {
+      "source": "guru",
+      "page": 55,
+      "lesson_blocks": 7,
+      "jp": 7,
+      "kbm_minutes": 290
+    },
+    {
+      "source": "guru",
+      "page": 56,
+      "lesson_blocks": 10,
+      "jp": 26,
+      "kbm_minutes": 1125
+    },
+    {
+      "source": "guru",
+      "page": 57,
+      "lesson_blocks": 11,
+      "jp": 32,
+      "kbm_minutes": 1400
+    },
+    {
+      "source": "guru",
+      "page": 58,
+      "lesson_blocks": 9,
+      "jp": 18,
+      "kbm_minutes": 790
+    }
+  ],
+  "extraction_errors": [],
+  "checks": [
+    "source hashes",
+    "one table cell per known label",
+    "all known labels represented",
+    "period edge alignment",
+    "valid calendar span and fixed activity location",
+    "known identity references",
+    "JSON read-back",
+    "six visually read geometry/duration cases"
+  ],
+  "source_findings": [
+    {
+      "type": "overlap_requires_reconciliation",
+      "teacher_code": "39",
+      "day": "rabu",
+      "period": 7,
+      "time": "12:15–13:00",
+      "class_ids": [
+        "XI-1",
+        "XII-9"
+      ],
+      "source_pages": {
+        "guru": [
+          39
+        ],
+        "kelas": [
+          10,
+          27
+        ]
+      }
+    },
+    {
+      "type": "inventory_correction",
+      "teacher_code": "45",
+      "detail": "Jumat MAT XI-1 periode 4–5 dan XI-3 periode 6–7 adalah sel biasa bersebelahan, bukan bertingkat."
+    }
+  ],
+  "limits": "No final event reconciliation or comprehensive HC/SC validation."
+}

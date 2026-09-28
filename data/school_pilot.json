@@ -1,0 +1,1829 @@
+{
+  "dataset_version": "PDF-PILOT-X1-X3-v1",
+  "ruleset_version": "ASSUMPTION-PDF-2026-01-05-v1",
+  "synthetic": false,
+  "data_status": "DOCUMENT_TRANSCRIPTION_WITH_UNVALIDATED_ASSUMPTIONS",
+  "source": {
+    "file": "Jadwal KBM Kelas 05 Januari 2026.pdf",
+    "pages": [
+      1,
+      2,
+      3
+    ]
+  },
+  "scope": {
+    "classes": [
+      "X-1",
+      "X-2",
+      "X-3"
+    ],
+    "full_school": false,
+    "external_teacher_commitments_included": false,
+    "limitation": "Feasibility applies only to X-1..X-3; other classes, rooms and student overlaps are not modeled."
+  },
+  "assumptions": [
+    "Not interview evidence or approved school rules.",
+    "Cross-break continuation allowed; breaks consume no teaching periods.",
+    "Mon/Fri period 1 reserved globally.",
+    "No inferred teacher unavailability from empty slots.",
+    "Friday 7 remains 11:05–11:30 as printed; administrative JP equivalence unconfirmed.",
+    "Weights 1/2/0/3 and daily limit 3 are provisional."
+  ],
+  "days": [
+    {
+      "id": "Mon",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "times": {
+        "1": [
+          "06:45",
+          "07:30"
+        ],
+        "2": [
+          "07:30",
+          "08:15"
+        ],
+        "3": [
+          "08:15",
+          "09:00"
+        ],
+        "4": [
+          "09:00",
+          "09:45"
+        ],
+        "5": [
+          "10:00",
+          "10:45"
+        ],
+        "6": [
+          "10:45",
+          "11:30"
+        ],
+        "7": [
+          "12:15",
+          "13:00"
+        ],
+        "8": [
+          "13:00",
+          "13:45"
+        ],
+        "9": [
+          "13:45",
+          "14:30"
+        ],
+        "10": [
+          "14:30",
+          "15:15"
+        ]
+      },
+      "break_after": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": "Tue",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "times": {
+        "1": [
+          "06:45",
+          "07:30"
+        ],
+        "2": [
+          "07:30",
+          "08:15"
+        ],
+        "3": [
+          "08:15",
+          "09:00"
+        ],
+        "4": [
+          "09:00",
+          "09:45"
+        ],
+        "5": [
+          "10:00",
+          "10:45"
+        ],
+        "6": [
+          "10:45",
+          "11:30"
+        ],
+        "7": [
+          "12:15",
+          "13:00"
+        ],
+        "8": [
+          "13:00",
+          "13:45"
+        ],
+        "9": [
+          "13:45",
+          "14:30"
+        ],
+        "10": [
+          "14:30",
+          "15:15"
+        ]
+      },
+      "break_after": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": "Wed",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "times": {
+        "1": [
+          "06:45",
+          "07:30"
+        ],
+        "2": [
+          "07:30",
+          "08:15"
+        ],
+        "3": [
+          "08:15",
+          "09:00"
+        ],
+        "4": [
+          "09:00",
+          "09:45"
+        ],
+        "5": [
+          "10:00",
+          "10:45"
+        ],
+        "6": [
+          "10:45",
+          "11:30"
+        ],
+        "7": [
+          "12:15",
+          "13:00"
+        ],
+        "8": [
+          "13:00",
+          "13:45"
+        ],
+        "9": [
+          "13:45",
+          "14:30"
+        ],
+        "10": [
+          "14:30",
+          "15:15"
+        ]
+      },
+      "break_after": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": "Thu",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "times": {
+        "1": [
+          "06:45",
+          "07:30"
+        ],
+        "2": [
+          "07:30",
+          "08:15"
+        ],
+        "3": [
+          "08:15",
+          "09:00"
+        ],
+        "4": [
+          "09:00",
+          "09:45"
+        ],
+        "5": [
+          "10:00",
+          "10:45"
+        ],
+        "6": [
+          "10:45",
+          "11:30"
+        ],
+        "7": [
+          "12:15",
+          "13:00"
+        ],
+        "8": [
+          "13:00",
+          "13:45"
+        ],
+        "9": [
+          "13:45",
+          "14:30"
+        ],
+        "10": [
+          "14:30",
+          "15:15"
+        ]
+      },
+      "break_after": [
+        4,
+        6
+      ]
+    },
+    {
+      "id": "Fri",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "times": {
+        "1": [
+          "06:45",
+          "07:30"
+        ],
+        "2": [
+          "07:30",
+          "08:10"
+        ],
+        "3": [
+          "08:10",
+          "08:50"
+        ],
+        "4": [
+          "08:50",
+          "09:30"
+        ],
+        "5": [
+          "09:45",
+          "10:25"
+        ],
+        "6": [
+          "10:25",
+          "11:05"
+        ],
+        "7": [
+          "11:05",
+          "11:30"
+        ]
+      },
+      "break_after": [
+        4
+      ]
+    }
+  ],
+  "blocked_slots": [
+    [
+      "Mon",
+      1
+    ],
+    [
+      "Fri",
+      1
+    ]
+  ],
+  "allow_cross_break": true,
+  "calendar_activities": [
+    {
+      "day_id": "Mon",
+      "period": 1,
+      "label": "UPCR"
+    },
+    {
+      "day_id": "Fri",
+      "period": 1,
+      "label": "4K"
+    }
+  ],
+  "classes": [
+    "X-1",
+    "X-2",
+    "X-3"
+  ],
+  "class_allowed_slots": {
+    "X-1": [
+      [
+        "Mon",
+        2
+      ],
+      [
+        "Mon",
+        3
+      ],
+      [
+        "Mon",
+        4
+      ],
+      [
+        "Mon",
+        5
+      ],
+      [
+        "Mon",
+        6
+      ],
+      [
+        "Mon",
+        7
+      ],
+      [
+        "Mon",
+        8
+      ],
+      [
+        "Mon",
+        9
+      ],
+      [
+        "Mon",
+        10
+      ],
+      [
+        "Tue",
+        1
+      ],
+      [
+        "Tue",
+        2
+      ],
+      [
+        "Tue",
+        3
+      ],
+      [
+        "Tue",
+        4
+      ],
+      [
+        "Tue",
+        5
+      ],
+      [
+        "Tue",
+        6
+      ],
+      [
+        "Tue",
+        7
+      ],
+      [
+        "Tue",
+        8
+      ],
+      [
+        "Tue",
+        9
+      ],
+      [
+        "Tue",
+        10
+      ],
+      [
+        "Wed",
+        1
+      ],
+      [
+        "Wed",
+        2
+      ],
+      [
+        "Wed",
+        3
+      ],
+      [
+        "Wed",
+        4
+      ],
+      [
+        "Wed",
+        5
+      ],
+      [
+        "Wed",
+        6
+      ],
+      [
+        "Wed",
+        7
+      ],
+      [
+        "Wed",
+        8
+      ],
+      [
+        "Wed",
+        9
+      ],
+      [
+        "Wed",
+        10
+      ],
+      [
+        "Thu",
+        1
+      ],
+      [
+        "Thu",
+        2
+      ],
+      [
+        "Thu",
+        3
+      ],
+      [
+        "Thu",
+        4
+      ],
+      [
+        "Thu",
+        5
+      ],
+      [
+        "Thu",
+        6
+      ],
+      [
+        "Thu",
+        7
+      ],
+      [
+        "Thu",
+        8
+      ],
+      [
+        "Thu",
+        9
+      ],
+      [
+        "Thu",
+        10
+      ],
+      [
+        "Fri",
+        2
+      ],
+      [
+        "Fri",
+        3
+      ],
+      [
+        "Fri",
+        4
+      ],
+      [
+        "Fri",
+        5
+      ],
+      [
+        "Fri",
+        6
+      ],
+      [
+        "Fri",
+        7
+      ]
+    ],
+    "X-2": [
+      [
+        "Mon",
+        2
+      ],
+      [
+        "Mon",
+        3
+      ],
+      [
+        "Mon",
+        4
+      ],
+      [
+        "Mon",
+        5
+      ],
+      [
+        "Mon",
+        6
+      ],
+      [
+        "Mon",
+        7
+      ],
+      [
+        "Mon",
+        8
+      ],
+      [
+        "Mon",
+        9
+      ],
+      [
+        "Mon",
+        10
+      ],
+      [
+        "Tue",
+        1
+      ],
+      [
+        "Tue",
+        2
+      ],
+      [
+        "Tue",
+        3
+      ],
+      [
+        "Tue",
+        4
+      ],
+      [
+        "Tue",
+        5
+      ],
+      [
+        "Tue",
+        6
+      ],
+      [
+        "Tue",
+        7
+      ],
+      [
+        "Tue",
+        8
+      ],
+      [
+        "Tue",
+        9
+      ],
+      [
+        "Tue",
+        10
+      ],
+      [
+        "Wed",
+        1
+      ],
+      [
+        "Wed",
+        2
+      ],
+      [
+        "Wed",
+        3
+      ],
+      [
+        "Wed",
+        4
+      ],
+      [
+        "Wed",
+        5
+      ],
+      [
+        "Wed",
+        6
+      ],
+      [
+        "Wed",
+        7
+      ],
+      [
+        "Wed",
+        8
+      ],
+      [
+        "Wed",
+        9
+      ],
+      [
+        "Wed",
+        10
+      ],
+      [
+        "Thu",
+        1
+      ],
+      [
+        "Thu",
+        2
+      ],
+      [
+        "Thu",
+        3
+      ],
+      [
+        "Thu",
+        4
+      ],
+      [
+        "Thu",
+        5
+      ],
+      [
+        "Thu",
+        6
+      ],
+      [
+        "Thu",
+        7
+      ],
+      [
+        "Thu",
+        8
+      ],
+      [
+        "Thu",
+        9
+      ],
+      [
+        "Thu",
+        10
+      ],
+      [
+        "Fri",
+        2
+      ],
+      [
+        "Fri",
+        3
+      ],
+      [
+        "Fri",
+        4
+      ],
+      [
+        "Fri",
+        5
+      ],
+      [
+        "Fri",
+        6
+      ],
+      [
+        "Fri",
+        7
+      ]
+    ],
+    "X-3": [
+      [
+        "Mon",
+        2
+      ],
+      [
+        "Mon",
+        3
+      ],
+      [
+        "Mon",
+        4
+      ],
+      [
+        "Mon",
+        5
+      ],
+      [
+        "Mon",
+        6
+      ],
+      [
+        "Mon",
+        7
+      ],
+      [
+        "Mon",
+        8
+      ],
+      [
+        "Mon",
+        9
+      ],
+      [
+        "Mon",
+        10
+      ],
+      [
+        "Tue",
+        1
+      ],
+      [
+        "Tue",
+        2
+      ],
+      [
+        "Tue",
+        3
+      ],
+      [
+        "Tue",
+        4
+      ],
+      [
+        "Tue",
+        5
+      ],
+      [
+        "Tue",
+        6
+      ],
+      [
+        "Tue",
+        7
+      ],
+      [
+        "Tue",
+        8
+      ],
+      [
+        "Tue",
+        9
+      ],
+      [
+        "Tue",
+        10
+      ],
+      [
+        "Wed",
+        1
+      ],
+      [
+        "Wed",
+        2
+      ],
+      [
+        "Wed",
+        3
+      ],
+      [
+        "Wed",
+        4
+      ],
+      [
+        "Wed",
+        5
+      ],
+      [
+        "Wed",
+        6
+      ],
+      [
+        "Wed",
+        7
+      ],
+      [
+        "Wed",
+        8
+      ],
+      [
+        "Wed",
+        9
+      ],
+      [
+        "Wed",
+        10
+      ],
+      [
+        "Thu",
+        1
+      ],
+      [
+        "Thu",
+        2
+      ],
+      [
+        "Thu",
+        3
+      ],
+      [
+        "Thu",
+        4
+      ],
+      [
+        "Thu",
+        5
+      ],
+      [
+        "Thu",
+        6
+      ],
+      [
+        "Thu",
+        7
+      ],
+      [
+        "Thu",
+        8
+      ],
+      [
+        "Thu",
+        9
+      ],
+      [
+        "Thu",
+        10
+      ],
+      [
+        "Fri",
+        2
+      ],
+      [
+        "Fri",
+        3
+      ],
+      [
+        "Fri",
+        4
+      ],
+      [
+        "Fri",
+        5
+      ],
+      [
+        "Fri",
+        6
+      ],
+      [
+        "Fri",
+        7
+      ]
+    ]
+  },
+  "teachers": [
+    {
+      "id": "T16",
+      "unavailable": []
+    },
+    {
+      "id": "T17",
+      "unavailable": []
+    },
+    {
+      "id": "T20",
+      "unavailable": []
+    },
+    {
+      "id": "T22",
+      "unavailable": []
+    },
+    {
+      "id": "T23",
+      "unavailable": []
+    },
+    {
+      "id": "T26",
+      "unavailable": []
+    },
+    {
+      "id": "T27",
+      "unavailable": []
+    },
+    {
+      "id": "T28",
+      "unavailable": []
+    },
+    {
+      "id": "T29",
+      "unavailable": []
+    },
+    {
+      "id": "T3",
+      "unavailable": []
+    },
+    {
+      "id": "T34",
+      "unavailable": []
+    },
+    {
+      "id": "T42",
+      "unavailable": []
+    },
+    {
+      "id": "T44",
+      "unavailable": []
+    },
+    {
+      "id": "T45",
+      "unavailable": []
+    },
+    {
+      "id": "T50",
+      "unavailable": []
+    },
+    {
+      "id": "T51",
+      "unavailable": []
+    },
+    {
+      "id": "T58",
+      "unavailable": []
+    },
+    {
+      "id": "T7",
+      "unavailable": []
+    },
+    {
+      "id": "T8",
+      "unavailable": []
+    }
+  ],
+  "subjects": [
+    "AGM",
+    "BIG",
+    "BIN",
+    "BIO",
+    "BK",
+    "EKO",
+    "FIS",
+    "GEO",
+    "Informatika",
+    "KIM",
+    "MAT",
+    "PJOK",
+    "PPKn",
+    "SB",
+    "SEJARAH",
+    "SOS"
+  ],
+  "assignments": [
+    {
+      "id": "X-1:KIM:T58",
+      "class_id": "X-1",
+      "subject_id": "KIM",
+      "teacher_id": "T58",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:BIO:T23",
+      "class_id": "X-1",
+      "subject_id": "BIO",
+      "teacher_id": "T23",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:GEO:T29",
+      "class_id": "X-1",
+      "subject_id": "GEO",
+      "teacher_id": "T29",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:FIS:T20",
+      "class_id": "X-1",
+      "subject_id": "FIS",
+      "teacher_id": "T20",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:MAT:T42",
+      "class_id": "X-1",
+      "subject_id": "MAT",
+      "teacher_id": "T42",
+      "weekly_jp": 4
+    },
+    {
+      "id": "X-1:BIN:T7",
+      "class_id": "X-1",
+      "subject_id": "BIN",
+      "teacher_id": "T7",
+      "weekly_jp": 4
+    },
+    {
+      "id": "X-1:SOS:T17",
+      "class_id": "X-1",
+      "subject_id": "SOS",
+      "teacher_id": "T17",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:SB:T3",
+      "class_id": "X-1",
+      "subject_id": "SB",
+      "teacher_id": "T3",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-1:BK:T16",
+      "class_id": "X-1",
+      "subject_id": "BK",
+      "teacher_id": "T16",
+      "weekly_jp": 1
+    },
+    {
+      "id": "X-1:SEJARAH:T50",
+      "class_id": "X-1",
+      "subject_id": "SEJARAH",
+      "teacher_id": "T50",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:PPKn:T44",
+      "class_id": "X-1",
+      "subject_id": "PPKn",
+      "teacher_id": "T44",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-1:AGM:T27",
+      "class_id": "X-1",
+      "subject_id": "AGM",
+      "teacher_id": "T27",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:EKO:T28",
+      "class_id": "X-1",
+      "subject_id": "EKO",
+      "teacher_id": "T28",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:Informatika:T26",
+      "class_id": "X-1",
+      "subject_id": "Informatika",
+      "teacher_id": "T26",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-1:BIG:T51",
+      "class_id": "X-1",
+      "subject_id": "BIG",
+      "teacher_id": "T51",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-1:PJOK:T8",
+      "class_id": "X-1",
+      "subject_id": "PJOK",
+      "teacher_id": "T8",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:BIO:T23",
+      "class_id": "X-2",
+      "subject_id": "BIO",
+      "teacher_id": "T23",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:AGM:T27",
+      "class_id": "X-2",
+      "subject_id": "AGM",
+      "teacher_id": "T27",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:SOS:T17",
+      "class_id": "X-2",
+      "subject_id": "SOS",
+      "teacher_id": "T17",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:KIM:T58",
+      "class_id": "X-2",
+      "subject_id": "KIM",
+      "teacher_id": "T58",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:BK:T16",
+      "class_id": "X-2",
+      "subject_id": "BK",
+      "teacher_id": "T16",
+      "weekly_jp": 1
+    },
+    {
+      "id": "X-2:EKO:T28",
+      "class_id": "X-2",
+      "subject_id": "EKO",
+      "teacher_id": "T28",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:BIG:T51",
+      "class_id": "X-2",
+      "subject_id": "BIG",
+      "teacher_id": "T51",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:FIS:T20",
+      "class_id": "X-2",
+      "subject_id": "FIS",
+      "teacher_id": "T20",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:PJOK:T8",
+      "class_id": "X-2",
+      "subject_id": "PJOK",
+      "teacher_id": "T8",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:BIN:T7",
+      "class_id": "X-2",
+      "subject_id": "BIN",
+      "teacher_id": "T7",
+      "weekly_jp": 4
+    },
+    {
+      "id": "X-2:Informatika:T26",
+      "class_id": "X-2",
+      "subject_id": "Informatika",
+      "teacher_id": "T26",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-2:SB:T3",
+      "class_id": "X-2",
+      "subject_id": "SB",
+      "teacher_id": "T3",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-2:MAT:T42",
+      "class_id": "X-2",
+      "subject_id": "MAT",
+      "teacher_id": "T42",
+      "weekly_jp": 4
+    },
+    {
+      "id": "X-2:GEO:T29",
+      "class_id": "X-2",
+      "subject_id": "GEO",
+      "teacher_id": "T29",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:SEJARAH:T50",
+      "class_id": "X-2",
+      "subject_id": "SEJARAH",
+      "teacher_id": "T50",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-2:PPKn:T44",
+      "class_id": "X-2",
+      "subject_id": "PPKn",
+      "teacher_id": "T44",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-3:MAT:T45",
+      "class_id": "X-3",
+      "subject_id": "MAT",
+      "teacher_id": "T45",
+      "weekly_jp": 4
+    },
+    {
+      "id": "X-3:SB:T3",
+      "class_id": "X-3",
+      "subject_id": "SB",
+      "teacher_id": "T3",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-3:KIM:T58",
+      "class_id": "X-3",
+      "subject_id": "KIM",
+      "teacher_id": "T58",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:Informatika:T26",
+      "class_id": "X-3",
+      "subject_id": "Informatika",
+      "teacher_id": "T26",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-3:PPKn:T44",
+      "class_id": "X-3",
+      "subject_id": "PPKn",
+      "teacher_id": "T44",
+      "weekly_jp": 2
+    },
+    {
+      "id": "X-3:BIN:T7",
+      "class_id": "X-3",
+      "subject_id": "BIN",
+      "teacher_id": "T7",
+      "weekly_jp": 4
+    },
+    {
+      "id": "X-3:SOS:T17",
+      "class_id": "X-3",
+      "subject_id": "SOS",
+      "teacher_id": "T17",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:AGM:T27",
+      "class_id": "X-3",
+      "subject_id": "AGM",
+      "teacher_id": "T27",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:FIS:T20",
+      "class_id": "X-3",
+      "subject_id": "FIS",
+      "teacher_id": "T20",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:BIG:T22",
+      "class_id": "X-3",
+      "subject_id": "BIG",
+      "teacher_id": "T22",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:BIO:T23",
+      "class_id": "X-3",
+      "subject_id": "BIO",
+      "teacher_id": "T23",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:BK:T34",
+      "class_id": "X-3",
+      "subject_id": "BK",
+      "teacher_id": "T34",
+      "weekly_jp": 1
+    },
+    {
+      "id": "X-3:SEJARAH:T50",
+      "class_id": "X-3",
+      "subject_id": "SEJARAH",
+      "teacher_id": "T50",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:PJOK:T8",
+      "class_id": "X-3",
+      "subject_id": "PJOK",
+      "teacher_id": "T8",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:EKO:T28",
+      "class_id": "X-3",
+      "subject_id": "EKO",
+      "teacher_id": "T28",
+      "weekly_jp": 3
+    },
+    {
+      "id": "X-3:GEO:T29",
+      "class_id": "X-3",
+      "subject_id": "GEO",
+      "teacher_id": "T29",
+      "weekly_jp": 3
+    }
+  ],
+  "events": [
+    {
+      "id": "X-1:Mon:2",
+      "assignment_id": "X-1:KIM:T58",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Mon",
+      "source_start": 2,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Mon:5",
+      "assignment_id": "X-1:BIO:T23",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Mon",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Mon:8",
+      "assignment_id": "X-1:GEO:T29",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Mon",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Tue:1",
+      "assignment_id": "X-1:FIS:T20",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Tue",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Tue:4",
+      "assignment_id": "X-1:MAT:T42",
+      "duration_jp": 2,
+      "source_page": 1,
+      "source_day": "Tue",
+      "source_start": 4,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Tue:6",
+      "assignment_id": "X-1:BIN:T7",
+      "duration_jp": 2,
+      "source_page": 1,
+      "source_day": "Tue",
+      "source_start": 6,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Tue:8",
+      "assignment_id": "X-1:SOS:T17",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Tue",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Wed:1",
+      "assignment_id": "X-1:MAT:T42",
+      "duration_jp": 2,
+      "source_page": 1,
+      "source_day": "Wed",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Wed:3",
+      "assignment_id": "X-1:BIN:T7",
+      "duration_jp": 2,
+      "source_page": 1,
+      "source_day": "Wed",
+      "source_start": 3,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Wed:5",
+      "assignment_id": "X-1:SB:T3",
+      "duration_jp": 2,
+      "source_page": 1,
+      "source_day": "Wed",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Wed:7",
+      "assignment_id": "X-1:BK:T16",
+      "duration_jp": 1,
+      "source_page": 1,
+      "source_day": "Wed",
+      "source_start": 7,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Wed:8",
+      "assignment_id": "X-1:SEJARAH:T50",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Wed",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Thu:1",
+      "assignment_id": "X-1:PPKn:T44",
+      "duration_jp": 2,
+      "source_page": 1,
+      "source_day": "Thu",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Thu:3",
+      "assignment_id": "X-1:AGM:T27",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Thu",
+      "source_start": 3,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Thu:6",
+      "assignment_id": "X-1:EKO:T28",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Thu",
+      "source_start": 6,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Thu:9",
+      "assignment_id": "X-1:Informatika:T26",
+      "duration_jp": 2,
+      "source_page": 1,
+      "source_day": "Thu",
+      "source_start": 9,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Fri:2",
+      "assignment_id": "X-1:BIG:T51",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Fri",
+      "source_start": 2,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-1:Fri:5",
+      "assignment_id": "X-1:PJOK:T8",
+      "duration_jp": 3,
+      "source_page": 1,
+      "source_day": "Fri",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Mon:2",
+      "assignment_id": "X-2:BIO:T23",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Mon",
+      "source_start": 2,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Mon:5",
+      "assignment_id": "X-2:AGM:T27",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Mon",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Mon:8",
+      "assignment_id": "X-2:SOS:T17",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Mon",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Tue:1",
+      "assignment_id": "X-2:KIM:T58",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Tue",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Tue:4",
+      "assignment_id": "X-2:BK:T16",
+      "duration_jp": 1,
+      "source_page": 2,
+      "source_day": "Tue",
+      "source_start": 4,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Tue:5",
+      "assignment_id": "X-2:EKO:T28",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Tue",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Tue:8",
+      "assignment_id": "X-2:BIG:T51",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Tue",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Wed:1",
+      "assignment_id": "X-2:FIS:T20",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Wed",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Wed:4",
+      "assignment_id": "X-2:PJOK:T8",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Wed",
+      "source_start": 4,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Wed:7",
+      "assignment_id": "X-2:BIN:T7",
+      "duration_jp": 2,
+      "source_page": 2,
+      "source_day": "Wed",
+      "source_start": 7,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Wed:9",
+      "assignment_id": "X-2:Informatika:T26",
+      "duration_jp": 2,
+      "source_page": 2,
+      "source_day": "Wed",
+      "source_start": 9,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Thu:1",
+      "assignment_id": "X-2:SB:T3",
+      "duration_jp": 2,
+      "source_page": 2,
+      "source_day": "Thu",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Thu:3",
+      "assignment_id": "X-2:MAT:T42",
+      "duration_jp": 2,
+      "source_page": 2,
+      "source_day": "Thu",
+      "source_start": 3,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Thu:5",
+      "assignment_id": "X-2:GEO:T29",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Thu",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Thu:8",
+      "assignment_id": "X-2:SEJARAH:T50",
+      "duration_jp": 3,
+      "source_page": 2,
+      "source_day": "Thu",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Fri:2",
+      "assignment_id": "X-2:PPKn:T44",
+      "duration_jp": 2,
+      "source_page": 2,
+      "source_day": "Fri",
+      "source_start": 2,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Fri:4",
+      "assignment_id": "X-2:MAT:T42",
+      "duration_jp": 2,
+      "source_page": 2,
+      "source_day": "Fri",
+      "source_start": 4,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-2:Fri:6",
+      "assignment_id": "X-2:BIN:T7",
+      "duration_jp": 2,
+      "source_page": 2,
+      "source_day": "Fri",
+      "source_start": 6,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Mon:2",
+      "assignment_id": "X-3:MAT:T45",
+      "duration_jp": 2,
+      "source_page": 3,
+      "source_day": "Mon",
+      "source_start": 2,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Mon:4",
+      "assignment_id": "X-3:SB:T3",
+      "duration_jp": 2,
+      "source_page": 3,
+      "source_day": "Mon",
+      "source_start": 4,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Mon:6",
+      "assignment_id": "X-3:KIM:T58",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Mon",
+      "source_start": 6,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Mon:9",
+      "assignment_id": "X-3:Informatika:T26",
+      "duration_jp": 2,
+      "source_page": 3,
+      "source_day": "Mon",
+      "source_start": 9,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Tue:1",
+      "assignment_id": "X-3:PPKn:T44",
+      "duration_jp": 2,
+      "source_page": 3,
+      "source_day": "Tue",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Tue:3",
+      "assignment_id": "X-3:BIN:T7",
+      "duration_jp": 2,
+      "source_page": 3,
+      "source_day": "Tue",
+      "source_start": 3,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Tue:5",
+      "assignment_id": "X-3:SOS:T17",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Tue",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Tue:8",
+      "assignment_id": "X-3:AGM:T27",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Tue",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Wed:1",
+      "assignment_id": "X-3:BIN:T7",
+      "duration_jp": 2,
+      "source_page": 3,
+      "source_day": "Wed",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Wed:3",
+      "assignment_id": "X-3:MAT:T45",
+      "duration_jp": 2,
+      "source_page": 3,
+      "source_day": "Wed",
+      "source_start": 3,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Wed:5",
+      "assignment_id": "X-3:FIS:T20",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Wed",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Wed:8",
+      "assignment_id": "X-3:BIG:T22",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Wed",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Thu:1",
+      "assignment_id": "X-3:BIO:T23",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Thu",
+      "source_start": 1,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Thu:4",
+      "assignment_id": "X-3:BK:T34",
+      "duration_jp": 1,
+      "source_page": 3,
+      "source_day": "Thu",
+      "source_start": 4,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Thu:5",
+      "assignment_id": "X-3:SEJARAH:T50",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Thu",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Thu:8",
+      "assignment_id": "X-3:PJOK:T8",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Thu",
+      "source_start": 8,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Fri:2",
+      "assignment_id": "X-3:EKO:T28",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Fri",
+      "source_start": 2,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    },
+    {
+      "id": "X-3:Fri:5",
+      "assignment_id": "X-3:GEO:T29",
+      "duration_jp": 3,
+      "source_page": 3,
+      "source_day": "Fri",
+      "source_start": 5,
+      "evidence_status": "VISUALLY_TRANSCRIBED_NOT_SCHOOL_VALIDATED"
+    }
+  ],
+  "conflict_pairs": [],
+  "rules": {
+    "gap": 1,
+    "daily": 2,
+    "preference": 0,
+    "spread": 3,
+    "daily_limit": 3
+  }
+}

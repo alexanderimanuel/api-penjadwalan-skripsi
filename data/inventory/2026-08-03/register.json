@@ -1,0 +1,4728 @@
+{
+  "scope": "Inventarisasi; belum validasi sel atau rekonsiliasi event",
+  "files": [
+    {
+      "id": "kelas",
+      "original_path": "C:\\Users\\alexa\\Downloads\\Jadwal KBM Kelas - Berlaku 03 Agustus 2026.pdf",
+      "frozen_path": "data\\sources\\2026-08-03\\Jadwal KBM Kelas - Berlaku 03 Agustus 2026.pdf",
+      "bytes": 523848,
+      "sha256": "d0b43c937ac6949ae2d974cd2793148a8422df09065bb7e0084f76f70560b480",
+      "pages": [
+        {
+          "page": 1,
+          "identity_raw": "X-1",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 876,
+          "body_word_count": 105,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 2,
+          "identity_raw": "X-2",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 875,
+          "body_word_count": 105,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 3,
+          "identity_raw": "X-3",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 889,
+          "body_word_count": 108,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 4,
+          "identity_raw": "X-4",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 902,
+          "body_word_count": 107,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 5,
+          "identity_raw": "X-5",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 886,
+          "body_word_count": 104,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": [
+            "Beberapa kode: 5 / 52 / 53"
+          ]
+        },
+        {
+          "page": 6,
+          "identity_raw": "X-6",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 902,
+          "body_word_count": 105,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 7,
+          "identity_raw": "X-7",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 883,
+          "body_word_count": 102,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 8,
+          "identity_raw": "X-8",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 901,
+          "body_word_count": 104,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 9,
+          "identity_raw": "X-9",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 901,
+          "body_word_count": 104,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 100,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 10,
+          "identity_raw": "XI-1",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 881,
+          "body_word_count": 103,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 11,
+          "identity_raw": "XI-2",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 878,
+          "body_word_count": 105,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 12,
+          "identity_raw": "XI-3",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 909,
+          "body_word_count": 106,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": [
+            "Beberapa kode: 53 / 27"
+          ]
+        },
+        {
+          "page": 13,
+          "identity_raw": "XI-4",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 887,
+          "body_word_count": 105,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": [
+            "Beberapa kode: 52 / 53 / 5"
+          ]
+        },
+        {
+          "page": 14,
+          "identity_raw": "XI-5",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 903,
+          "body_word_count": 105,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 15,
+          "identity_raw": "XI-6",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 926,
+          "body_word_count": 110,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 16,
+          "identity_raw": "XI-7",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 917,
+          "body_word_count": 110,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": [
+            "Beberapa kode: 52 / 53 / 47"
+          ]
+        },
+        {
+          "page": 17,
+          "identity_raw": "XI-8",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 922,
+          "body_word_count": 113,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 18,
+          "identity_raw": "XI-9",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 927,
+          "body_word_count": 117,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": [
+            "Beberapa kode: 47 / 52 / 53"
+          ]
+        },
+        {
+          "page": 19,
+          "identity_raw": "XII-1",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 897,
+          "body_word_count": 103,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 20,
+          "identity_raw": "XII-2",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 909,
+          "body_word_count": 109,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 21,
+          "identity_raw": "XII-3",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 916,
+          "body_word_count": 112,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 22,
+          "identity_raw": "XII-4",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 936,
+          "body_word_count": 114,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 23,
+          "identity_raw": "XII-5",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 884,
+          "body_word_count": 104,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 24,
+          "identity_raw": "XII-6",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 869,
+          "body_word_count": 102,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 25,
+          "identity_raw": "XII-7",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 868,
+          "body_word_count": 101,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 26,
+          "identity_raw": "XII-8",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 891,
+          "body_word_count": 105,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 27,
+          "identity_raw": "XII-9",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 891,
+          "body_word_count": 105,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 103,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        }
+      ],
+      "metadata": {
+        "Author": "",
+        "CreationDate": "D:20260731114735+07'00'",
+        "ModDate": "D:20260731114735+07'00'",
+        "Producer": "Microsoft: Print To PDF",
+        "Title": "05. JADWAL SEM 1 03 Agustusi 2026"
+      },
+      "page_count": 27,
+      "unique_identities": 27
+    },
+    {
+      "id": "guru",
+      "original_path": "C:\\Users\\alexa\\Downloads\\Jadwal KBM Guru - Berlaku 03 Agustus 2026.pdf",
+      "frozen_path": "data\\sources\\2026-08-03\\Jadwal KBM Guru - Berlaku 03 Agustus 2026.pdf",
+      "bytes": 584999,
+      "sha256": "f25c89ffcf9e3d58f2b6b34aaf725530776840626d8821dee26950ee18227cd4",
+      "pages": [
+        {
+          "page": 1,
+          "identity_raw": "Nuraeni, S.Pd (1)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 282,
+          "body_word_count": 0,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 128,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": [
+            "Area isi tanpa teks pelajaran; periksa visual"
+          ]
+        },
+        {
+          "page": 2,
+          "identity_raw": "Dra. Heri Sudjatmi (2)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 343,
+          "body_word_count": 12,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 119,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 3,
+          "identity_raw": "Dyah Masita Rini, S.Pd., M.Pd (3)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 388,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 4,
+          "identity_raw": "Lilis Indrawati, S.Pd (4)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 406,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 5,
+          "identity_raw": "Drs. Masrur M.PdI (5)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 353,
+          "body_word_count": 16,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 112,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 6,
+          "identity_raw": "Iswaning Rahayu, M.Pd (6)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 386,
+          "body_word_count": 20,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 7,
+          "identity_raw": "Tri Winarsih, S.Pd (7)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 385,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 8,
+          "identity_raw": "Mingribut K, S.Pd (8)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 376,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 110,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 9,
+          "identity_raw": "Slamet Mujiono, M.Pd (9)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 394,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 110,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 10,
+          "identity_raw": "Nurnirin, M.Pd (10)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 430,
+          "body_word_count": 22,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 115,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 11,
+          "identity_raw": "Yudhi Christianto, S.Kom. (11)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 367,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 119,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 12,
+          "identity_raw": "Endah Trajuningsih, M.Pd (12)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 406,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 13,
+          "identity_raw": "Fitri Kusrini, S.Psi (13)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 341,
+          "body_word_count": 12,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 128,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 14,
+          "identity_raw": "Hesti Maiyanti, SS (14)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 412,
+          "body_word_count": 20,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 15,
+          "identity_raw": "Elisa Dewi Puspitasari, M.Pd (15)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 414,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 16,
+          "identity_raw": "Rina Mariana, S.Pd (16)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 344,
+          "body_word_count": 14,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 128,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 17,
+          "identity_raw": "Dwi Avianto, S.Sos. (17)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 321,
+          "body_word_count": 8,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 120,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 18,
+          "identity_raw": "Nurul Ita, S.AG (18)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 357,
+          "body_word_count": 16,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 112,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 19,
+          "identity_raw": "Fresty Kartika Fitri, M.Sos (19)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 417,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 110,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 20,
+          "identity_raw": "Anik Istyowati, M.Pd (20)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 362,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 110,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 21,
+          "identity_raw": "Drs. Teguh Santosa, M.Pd (21)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 433,
+          "body_word_count": 26,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 115,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 22,
+          "identity_raw": "Tasrikha Ikawati, M.Pd (22)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 330,
+          "body_word_count": 8,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 120,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 23,
+          "identity_raw": "Wiedia Carulina P.,M.Pd (23)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 377,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 24,
+          "identity_raw": "Dwita Tyasti Asri, S.Pd.(24)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 367,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 119,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 25,
+          "identity_raw": "Dina Charisma Ganda Pratiwi, S.Pd. (25)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 394,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 110,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 26,
+          "identity_raw": "Erma Widayanti, M.Pd. (26)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 467,
+          "body_word_count": 20,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 27,
+          "identity_raw": "Rifki Amirulloh, S.Pd (27)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 368,
+          "body_word_count": 16,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 112,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 28,
+          "identity_raw": "Anita purwaningsih, S.Pd, G.r (28)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 393,
+          "body_word_count": 20,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 29,
+          "identity_raw": "Mashari, M.Pd (29)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 391,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 107,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 30,
+          "identity_raw": "Dian Safitri, S.Pd. Gr(30)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 395,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 31,
+          "identity_raw": "Yustindra Lis Abadi, S.Pd (31)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 397,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 32,
+          "identity_raw": "Arifiani Amalia, SS (32)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 403,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 33,
+          "identity_raw": "Wendra Syehrofi, S.Pd. (33)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 324,
+          "body_word_count": 8,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 120,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 34,
+          "identity_raw": "Maria Tri Indah M, S.Pd. (34)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 350,
+          "body_word_count": 14,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 128,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 35,
+          "identity_raw": "Sri Mindarti, S.Pd (35)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 372,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 36,
+          "identity_raw": "Hendra Junaidi, S.Si (36)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 406,
+          "body_word_count": 30,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 37,
+          "identity_raw": "Maya Maharani M.B. S.Pd (37)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 397,
+          "body_word_count": 26,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 111,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 38,
+          "identity_raw": "Khoirun Nif'an, M.Pd (38)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 444,
+          "body_word_count": 30,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 39,
+          "identity_raw": "Rany Rospriana, S.Pd (39)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 380,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 114,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 40,
+          "identity_raw": "Anugrah Teguh, M.Pd (40)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 385,
+          "body_word_count": 22,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 110,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 41,
+          "identity_raw": "Rendy Sukmajaya, S.Pd (41)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 390,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 113,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 42,
+          "identity_raw": "Karyatiningsih, S.Si (42)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 394,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 43,
+          "identity_raw": "Willy Adam Pangestu, S.Pd (43)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 337,
+          "body_word_count": 10,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 119,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 44,
+          "identity_raw": "Alfisa Devi Shohibin, S. Pd (44)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 428,
+          "body_word_count": 28,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 114,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 45,
+          "identity_raw": "Aulia Dhea Hersanti, S.Pd (45)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 397,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 116,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 46,
+          "identity_raw": "Teguh Sigit Yuniarto, SE, S.Pd (46)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 342,
+          "body_word_count": 10,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 119,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 47,
+          "identity_raw": "Muslih, S.Pd (47)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 309,
+          "body_word_count": 6,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 122,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 48,
+          "identity_raw": "Ferry Dwi Wahyu Priambodo, S.Pd (48)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 419,
+          "body_word_count": 30,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 110,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 49,
+          "identity_raw": "Kartika Rahayuwati, S.Pd (49)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 318,
+          "body_word_count": 6,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 125,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 50,
+          "identity_raw": "M. Hari Efendi, S.Pd (50)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 420,
+          "body_word_count": 20,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 114,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 51,
+          "identity_raw": "Muhammad Sulton Rizal S.Pd (51)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 382,
+          "body_word_count": 20,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 108,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 52,
+          "identity_raw": "Teguh Gunawan, M.Th (52)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 324,
+          "body_word_count": 8,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 120,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 53,
+          "identity_raw": "Elifati Ndraha, S.Ag (53)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 334,
+          "body_word_count": 10,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 118,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 54,
+          "identity_raw": "Arif Aminullah Prayono, S.Pd (54)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 404,
+          "body_word_count": 24,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 109,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 55,
+          "identity_raw": "Moch. Ilyas Mahardika, S.Pd (55)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 350,
+          "body_word_count": 14,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 128,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 56,
+          "identity_raw": "Hanif Imanda Permatasari, S.Pd. (56)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 389,
+          "body_word_count": 20,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 112,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 57,
+          "identity_raw": "Ismiatul Zaroh, M.Pd. (57)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 381,
+          "body_word_count": 22,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 107,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        },
+        {
+          "page": 58,
+          "identity_raw": "Fauziah Syahran, S.Pd (58)",
+          "size_pt": [
+            792.0,
+            612.0
+          ],
+          "text_characters": 435,
+          "body_word_count": 18,
+          "date_present": true,
+          "academic_year_present": true,
+          "vector_lines": 119,
+          "images": [
+            {
+              "bbox": [
+                649.800018,
+                124.44001049999997,
+                780.7200165,
+                263.640015
+              ],
+              "native_size": [
+                398,
+                466
+              ],
+              "decoded_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+            },
+            {
+              "bbox": [
+                650.6400150000001,
+                406.3200075,
+                780.9600112500001,
+                530.400009
+              ],
+              "native_size": [
+                395,
+                385
+              ],
+              "decoded_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+            },
+            {
+              "bbox": [
+                649.9199985,
+                266.16000375000004,
+                780.48,
+                405.24000525
+              ],
+              "native_size": [
+                400,
+                438
+              ],
+              "decoded_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+            }
+          ],
+          "flags": []
+        }
+      ],
+      "metadata": {
+        "Author": "",
+        "CreationDate": "D:20260731114641+07'00'",
+        "ModDate": "D:20260731114641+07'00'",
+        "Producer": "Microsoft: Print To PDF",
+        "Title": "05. JADWAL SEM 1 03 Agustusi 2026"
+      },
+      "page_count": 58,
+      "unique_identities": 58
+    }
+  ]
+}

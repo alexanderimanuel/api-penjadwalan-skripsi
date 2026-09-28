@@ -1,0 +1,886 @@
+{
+  "id": "pilot-technical-v1",
+  "status": "synthetic",
+  "purpose": "Technical verification only; no school observations or interviews",
+  "events": [
+    {
+      "id": "SYN-C1-S1-M1",
+      "subject_id": "S1",
+      "class_ids": [
+        "X-1"
+      ],
+      "teacher_codes": [
+        "T1"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C1-S1-M1"
+      }
+    },
+    {
+      "id": "SYN-C1-S1-M2",
+      "subject_id": "S1",
+      "class_ids": [
+        "X-1"
+      ],
+      "teacher_codes": [
+        "T1"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C1-S1-M2"
+      }
+    },
+    {
+      "id": "SYN-C1-S2-M1",
+      "subject_id": "S2",
+      "class_ids": [
+        "X-1"
+      ],
+      "teacher_codes": [
+        "T2"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C1-S2-M1"
+      }
+    },
+    {
+      "id": "SYN-C1-S2-M2",
+      "subject_id": "S2",
+      "class_ids": [
+        "X-1"
+      ],
+      "teacher_codes": [
+        "T2"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C1-S2-M2"
+      }
+    },
+    {
+      "id": "SYN-C1-S3-M1",
+      "subject_id": "S3",
+      "class_ids": [
+        "X-1"
+      ],
+      "teacher_codes": [
+        "T3"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C1-S3-M1"
+      }
+    },
+    {
+      "id": "SYN-C1-S3-M2",
+      "subject_id": "S3",
+      "class_ids": [
+        "X-1"
+      ],
+      "teacher_codes": [
+        "T3"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C1-S3-M2"
+      }
+    },
+    {
+      "id": "SYN-C1-S4-M1",
+      "subject_id": "S4",
+      "class_ids": [
+        "X-1"
+      ],
+      "teacher_codes": [
+        "T4"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": [
+          {
+            "after_jp": 1,
+            "minutes": 15
+          }
+        ]
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C1-S4-M1"
+      }
+    },
+    {
+      "id": "SYN-C1-S4-M2",
+      "subject_id": "S4",
+      "class_ids": [
+        "X-1"
+      ],
+      "teacher_codes": [
+        "T4"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": [
+          {
+            "after_jp": 1,
+            "minutes": 15
+          }
+        ]
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C1-S4-M2"
+      }
+    },
+    {
+      "id": "SYN-C2-S1-M1",
+      "subject_id": "S1",
+      "class_ids": [
+        "X-2"
+      ],
+      "teacher_codes": [
+        "T1"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C2-S1-M1"
+      }
+    },
+    {
+      "id": "SYN-C2-S1-M2",
+      "subject_id": "S1",
+      "class_ids": [
+        "X-2"
+      ],
+      "teacher_codes": [
+        "T1"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C2-S1-M2"
+      }
+    },
+    {
+      "id": "SYN-C2-S2-M1",
+      "subject_id": "S2",
+      "class_ids": [
+        "X-2"
+      ],
+      "teacher_codes": [
+        "T2"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C2-S2-M1"
+      }
+    },
+    {
+      "id": "SYN-C2-S2-M2",
+      "subject_id": "S2",
+      "class_ids": [
+        "X-2"
+      ],
+      "teacher_codes": [
+        "T2"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C2-S2-M2"
+      }
+    },
+    {
+      "id": "SYN-C2-S3-M1",
+      "subject_id": "S3",
+      "class_ids": [
+        "X-2"
+      ],
+      "teacher_codes": [
+        "T3"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C2-S3-M1"
+      }
+    },
+    {
+      "id": "SYN-C2-S3-M2",
+      "subject_id": "S3",
+      "class_ids": [
+        "X-2"
+      ],
+      "teacher_codes": [
+        "T3"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C2-S3-M2"
+      }
+    },
+    {
+      "id": "SYN-C2-S4-M1",
+      "subject_id": "S4",
+      "class_ids": [
+        "X-2"
+      ],
+      "teacher_codes": [
+        "T4"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": [
+          {
+            "after_jp": 1,
+            "minutes": 15
+          }
+        ]
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C2-S4-M1"
+      }
+    },
+    {
+      "id": "SYN-C2-S4-M2",
+      "subject_id": "S4",
+      "class_ids": [
+        "X-2"
+      ],
+      "teacher_codes": [
+        "T4"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": [
+          {
+            "after_jp": 1,
+            "minutes": 15
+          }
+        ]
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C2-S4-M2"
+      }
+    },
+    {
+      "id": "SYN-C3-S1-M1",
+      "subject_id": "S1",
+      "class_ids": [
+        "X-3"
+      ],
+      "teacher_codes": [
+        "T1"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C3-S1-M1"
+      }
+    },
+    {
+      "id": "SYN-C3-S1-M2",
+      "subject_id": "S1",
+      "class_ids": [
+        "X-3"
+      ],
+      "teacher_codes": [
+        "T1"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C3-S1-M2"
+      }
+    },
+    {
+      "id": "SYN-C3-S2-M1",
+      "subject_id": "S2",
+      "class_ids": [
+        "X-3"
+      ],
+      "teacher_codes": [
+        "T2"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C3-S2-M1"
+      }
+    },
+    {
+      "id": "SYN-C3-S2-M2",
+      "subject_id": "S2",
+      "class_ids": [
+        "X-3"
+      ],
+      "teacher_codes": [
+        "T2"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C3-S2-M2"
+      }
+    },
+    {
+      "id": "SYN-C3-S3-M1",
+      "subject_id": "S3",
+      "class_ids": [
+        "X-3"
+      ],
+      "teacher_codes": [
+        "T3"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C3-S3-M1"
+      }
+    },
+    {
+      "id": "SYN-C3-S3-M2",
+      "subject_id": "S3",
+      "class_ids": [
+        "X-3"
+      ],
+      "teacher_codes": [
+        "T3"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": []
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C3-S3-M2"
+      }
+    },
+    {
+      "id": "SYN-C3-S4-M1",
+      "subject_id": "S4",
+      "class_ids": [
+        "X-3"
+      ],
+      "teacher_codes": [
+        "T4"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": [
+          {
+            "after_jp": 1,
+            "minutes": 15
+          }
+        ]
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C3-S4-M1"
+      }
+    },
+    {
+      "id": "SYN-C3-S4-M2",
+      "subject_id": "S4",
+      "class_ids": [
+        "X-3"
+      ],
+      "teacher_codes": [
+        "T4"
+      ],
+      "time": {
+        "jp": 2,
+        "kbm_minutes": 80,
+        "breaks": [
+          {
+            "after_jp": 1,
+            "minutes": 15
+          }
+        ]
+      },
+      "source_evidence": {
+        "kind": "SYNTHETIC_TEST_ONLY",
+        "record": "SYN-C3-S4-M2"
+      }
+    }
+  ],
+  "calendar": {
+    "days": [
+      {
+        "id": "d1",
+        "segments": [
+          {
+            "period": 1,
+            "kind": "fixed",
+            "start_minute": 480,
+            "end_minute": 500,
+            "duration_minutes": 20
+          },
+          {
+            "period": 2,
+            "kind": "kbm",
+            "start_minute": 500,
+            "end_minute": 540,
+            "duration_minutes": 40
+          },
+          {
+            "period": 3,
+            "kind": "kbm",
+            "start_minute": 540,
+            "end_minute": 580,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 580,
+            "end_minute": 595,
+            "duration_minutes": 15
+          },
+          {
+            "period": 4,
+            "kind": "kbm",
+            "start_minute": 595,
+            "end_minute": 635,
+            "duration_minutes": 40
+          },
+          {
+            "period": 5,
+            "kind": "kbm",
+            "start_minute": 635,
+            "end_minute": 675,
+            "duration_minutes": 40
+          },
+          {
+            "period": 6,
+            "kind": "kbm",
+            "start_minute": 675,
+            "end_minute": 715,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 715,
+            "end_minute": 730,
+            "duration_minutes": 15
+          },
+          {
+            "period": 7,
+            "kind": "kbm",
+            "start_minute": 730,
+            "end_minute": 770,
+            "duration_minutes": 40
+          },
+          {
+            "period": 8,
+            "kind": "kbm",
+            "start_minute": 770,
+            "end_minute": 810,
+            "duration_minutes": 40
+          }
+        ]
+      },
+      {
+        "id": "d2",
+        "segments": [
+          {
+            "period": 1,
+            "kind": "fixed",
+            "start_minute": 480,
+            "end_minute": 500,
+            "duration_minutes": 20
+          },
+          {
+            "period": 2,
+            "kind": "kbm",
+            "start_minute": 500,
+            "end_minute": 540,
+            "duration_minutes": 40
+          },
+          {
+            "period": 3,
+            "kind": "kbm",
+            "start_minute": 540,
+            "end_minute": 580,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 580,
+            "end_minute": 595,
+            "duration_minutes": 15
+          },
+          {
+            "period": 4,
+            "kind": "kbm",
+            "start_minute": 595,
+            "end_minute": 635,
+            "duration_minutes": 40
+          },
+          {
+            "period": 5,
+            "kind": "kbm",
+            "start_minute": 635,
+            "end_minute": 675,
+            "duration_minutes": 40
+          },
+          {
+            "period": 6,
+            "kind": "kbm",
+            "start_minute": 675,
+            "end_minute": 715,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 715,
+            "end_minute": 730,
+            "duration_minutes": 15
+          },
+          {
+            "period": 7,
+            "kind": "kbm",
+            "start_minute": 730,
+            "end_minute": 770,
+            "duration_minutes": 40
+          },
+          {
+            "period": 8,
+            "kind": "kbm",
+            "start_minute": 770,
+            "end_minute": 810,
+            "duration_minutes": 40
+          }
+        ]
+      },
+      {
+        "id": "d3",
+        "segments": [
+          {
+            "period": 1,
+            "kind": "fixed",
+            "start_minute": 480,
+            "end_minute": 500,
+            "duration_minutes": 20
+          },
+          {
+            "period": 2,
+            "kind": "kbm",
+            "start_minute": 500,
+            "end_minute": 540,
+            "duration_minutes": 40
+          },
+          {
+            "period": 3,
+            "kind": "kbm",
+            "start_minute": 540,
+            "end_minute": 580,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 580,
+            "end_minute": 595,
+            "duration_minutes": 15
+          },
+          {
+            "period": 4,
+            "kind": "kbm",
+            "start_minute": 595,
+            "end_minute": 635,
+            "duration_minutes": 40
+          },
+          {
+            "period": 5,
+            "kind": "kbm",
+            "start_minute": 635,
+            "end_minute": 675,
+            "duration_minutes": 40
+          },
+          {
+            "period": 6,
+            "kind": "kbm",
+            "start_minute": 675,
+            "end_minute": 715,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 715,
+            "end_minute": 730,
+            "duration_minutes": 15
+          },
+          {
+            "period": 7,
+            "kind": "kbm",
+            "start_minute": 730,
+            "end_minute": 770,
+            "duration_minutes": 40
+          },
+          {
+            "period": 8,
+            "kind": "kbm",
+            "start_minute": 770,
+            "end_minute": 810,
+            "duration_minutes": 40
+          }
+        ]
+      },
+      {
+        "id": "d4",
+        "segments": [
+          {
+            "period": 1,
+            "kind": "fixed",
+            "start_minute": 480,
+            "end_minute": 500,
+            "duration_minutes": 20
+          },
+          {
+            "period": 2,
+            "kind": "kbm",
+            "start_minute": 500,
+            "end_minute": 540,
+            "duration_minutes": 40
+          },
+          {
+            "period": 3,
+            "kind": "kbm",
+            "start_minute": 540,
+            "end_minute": 580,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 580,
+            "end_minute": 595,
+            "duration_minutes": 15
+          },
+          {
+            "period": 4,
+            "kind": "kbm",
+            "start_minute": 595,
+            "end_minute": 635,
+            "duration_minutes": 40
+          },
+          {
+            "period": 5,
+            "kind": "kbm",
+            "start_minute": 635,
+            "end_minute": 675,
+            "duration_minutes": 40
+          },
+          {
+            "period": 6,
+            "kind": "kbm",
+            "start_minute": 675,
+            "end_minute": 715,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 715,
+            "end_minute": 730,
+            "duration_minutes": 15
+          },
+          {
+            "period": 7,
+            "kind": "kbm",
+            "start_minute": 730,
+            "end_minute": 770,
+            "duration_minutes": 40
+          },
+          {
+            "period": 8,
+            "kind": "kbm",
+            "start_minute": 770,
+            "end_minute": 810,
+            "duration_minutes": 40
+          }
+        ]
+      },
+      {
+        "id": "d5",
+        "segments": [
+          {
+            "period": 1,
+            "kind": "fixed",
+            "start_minute": 480,
+            "end_minute": 500,
+            "duration_minutes": 20
+          },
+          {
+            "period": 2,
+            "kind": "kbm",
+            "start_minute": 500,
+            "end_minute": 540,
+            "duration_minutes": 40
+          },
+          {
+            "period": 3,
+            "kind": "kbm",
+            "start_minute": 540,
+            "end_minute": 580,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 580,
+            "end_minute": 595,
+            "duration_minutes": 15
+          },
+          {
+            "period": 4,
+            "kind": "kbm",
+            "start_minute": 595,
+            "end_minute": 635,
+            "duration_minutes": 40
+          },
+          {
+            "period": 5,
+            "kind": "kbm",
+            "start_minute": 635,
+            "end_minute": 675,
+            "duration_minutes": 40
+          },
+          {
+            "period": 6,
+            "kind": "kbm",
+            "start_minute": 675,
+            "end_minute": 715,
+            "duration_minutes": 40
+          },
+          {
+            "period": null,
+            "kind": "break",
+            "start_minute": 715,
+            "end_minute": 730,
+            "duration_minutes": 15
+          },
+          {
+            "period": 7,
+            "kind": "kbm",
+            "start_minute": 730,
+            "end_minute": 770,
+            "duration_minutes": 40
+          },
+          {
+            "period": 8,
+            "kind": "kbm",
+            "start_minute": 770,
+            "end_minute": 810,
+            "duration_minutes": 40
+          }
+        ]
+      }
+    ]
+  },
+  "teachers": [
+    {
+      "source_code": "T1"
+    },
+    {
+      "source_code": "T2"
+    },
+    {
+      "source_code": "T3"
+    },
+    {
+      "source_code": "T4"
+    }
+  ]
+}

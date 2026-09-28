@@ -1,0 +1,28 @@
+{
+  "status": "UNRESOLVED_TEACHER_MAPPING",
+  "complete_inventory": false,
+  "note": "Examples from PDF outside the three-class pilot; not optimization input.",
+  "records": [
+    {
+      "class_id": "X-6",
+      "page": 6,
+      "day": "Wed",
+      "subject": "BIG",
+      "raw_teacher": "47 / 51"
+    },
+    {
+      "class_id": "X-6",
+      "page": 6,
+      "day": "Fri",
+      "subject": "AGM",
+      "raw_teacher": "52 / 53 / 5"
+    },
+    {
+      "class_id": "XI-1",
+      "page": 10,
+      "day": "Tue",
+      "subject": "AGM",
+      "raw_teacher": "53 / 52 / 18"
+    }
+  ]
+}

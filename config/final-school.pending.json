@@ -1,0 +1,106 @@
+{
+  "rules_version": "final-revision-draft-2026-09-21",
+  "weights_version": null,
+  "normalization_version": null,
+  "reviewed_for_dataset": false,
+  "assignment_semantics_decision": null,
+  "difficulty": {
+    "version": "user-table-2026-09-21",
+    "source": "User reply in current task: table by grades X/XI/XII; unlisted/ambiguous labels left null; not claimed as signed interview",
+    "by_grade": {
+      "X": {
+        "AGM": null,
+        "BIG": "MEDIUM",
+        "BIG L": null,
+        "BIN": "MEDIUM",
+        "BIO": "MEDIUM",
+        "BK": null,
+        "EKO": null,
+        "FIS": "HIGH",
+        "GEO": null,
+        "IND Lanjut": null,
+        "Informatika": "MEDIUM",
+        "JEPANG": null,
+        "KIM": "HIGH",
+        "KKA": null,
+        "MAT": "HIGH",
+        "MAT P": null,
+        "PJOK": "LOW",
+        "PPKn": null,
+        "SB": "LOW",
+        "SEJARAH": null,
+        "SOS": null
+      },
+      "XI": {
+        "AGM": null,
+        "BIG": "MEDIUM",
+        "BIG L": null,
+        "BIN": "MEDIUM",
+        "BIO": "HIGH",
+        "BK": null,
+        "EKO": "MEDIUM",
+        "FIS": "HIGH",
+        "GEO": null,
+        "IND Lanjut": null,
+        "Informatika": "MEDIUM",
+        "JEPANG": null,
+        "KIM": "HIGH",
+        "KKA": null,
+        "MAT": "HIGH",
+        "MAT P": null,
+        "PJOK": "LOW",
+        "PPKn": null,
+        "SB": "LOW",
+        "SEJARAH": null,
+        "SOS": null
+      },
+      "XII": {
+        "AGM": null,
+        "BIG": "MEDIUM",
+        "BIG L": null,
+        "BIN": "MEDIUM",
+        "BIO": "MEDIUM",
+        "BK": null,
+        "EKO": null,
+        "FIS": "HIGH",
+        "GEO": null,
+        "IND Lanjut": null,
+        "Informatika": "MEDIUM",
+        "JEPANG": null,
+        "KIM": "HIGH",
+        "KKA": null,
+        "MAT": "HIGH",
+        "MAT P": null,
+        "PJOK": "LOW",
+        "PPKn": null,
+        "SB": "LOW",
+        "SEJARAH": null,
+        "SOS": null
+      }
+    },
+    "daily_limit": null,
+    "mapping_notes": [
+      "MAT P / BIG L / IND Lanjut not automatically merged with base subjects.",
+      "SB mapped to Seni; source categories by grade retained."
+    ]
+  },
+  "weights": {
+    "SC1": null,
+    "SC2": null,
+    "SC3": null
+  },
+  "normalization": {
+    "method": null,
+    "source": null,
+    "upper_bounds": {
+      "SC1": null,
+      "SC2": null,
+      "SC3": null
+    }
+  },
+  "additional_constraints": {},
+  "notes": [
+    "No teacher unavailability or rooms inferred.",
+    "Formula adapter divide_by_upper_bound is supported but not selected without proposal confirmation."
+  ]
+}

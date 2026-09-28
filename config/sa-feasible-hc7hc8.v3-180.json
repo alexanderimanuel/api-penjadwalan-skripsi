@@ -1,0 +1,33 @@
+{
+  "alpha": null,
+  "L_multiplier": null,
+  "authority": "User request 2026-09-24: 180 warm-start runs to obtain the lowest-SC recommendations; grid mirrors the constructive main experiment (C1-C6); reported separately, never mixed with constructive 180.",
+  "configurations": [
+    {"id": "C1", "alpha": 0.9, "L_multiplier": 1, "seeds": [3000, 3001, 3002, 3003, 3004, 3005, 3006, 3007, 3008, 3009, 3010, 3011, 3012, 3013, 3014, 3015, 3016, 3017, 3018, 3019, 3020, 3021, 3022, 3023, 3024, 3025, 3026, 3027, 3028, 3029]},
+    {"id": "C2", "alpha": 0.95, "L_multiplier": 1, "seeds": [3100, 3101, 3102, 3103, 3104, 3105, 3106, 3107, 3108, 3109, 3110, 3111, 3112, 3113, 3114, 3115, 3116, 3117, 3118, 3119, 3120, 3121, 3122, 3123, 3124, 3125, 3126, 3127, 3128, 3129]},
+    {"id": "C3", "alpha": 0.98, "L_multiplier": 1, "seeds": [3200, 3201, 3202, 3203, 3204, 3205, 3206, 3207, 3208, 3209, 3210, 3211, 3212, 3213, 3214, 3215, 3216, 3217, 3218, 3219, 3220, 3221, 3222, 3223, 3224, 3225, 3226, 3227, 3228, 3229]},
+    {"id": "C4", "alpha": 0.9, "L_multiplier": 3, "seeds": [3300, 3301, 3302, 3303, 3304, 3305, 3306, 3307, 3308, 3309, 3310, 3311, 3312, 3313, 3314, 3315, 3316, 3317, 3318, 3319, 3320, 3321, 3322, 3323, 3324, 3325, 3326, 3327, 3328, 3329]},
+    {"id": "C5", "alpha": 0.95, "L_multiplier": 3, "seeds": [3400, 3401, 3402, 3403, 3404, 3405, 3406, 3407, 3408, 3409, 3410, 3411, 3412, 3413, 3414, 3415, 3416, 3417, 3418, 3419, 3420, 3421, 3422, 3423, 3424, 3425, 3426, 3427, 3428, 3429]},
+    {"id": "C6", "alpha": 0.98, "L_multiplier": 3, "seeds": [3500, 3501, 3502, 3503, 3504, 3505, 3506, 3507, 3508, 3509, 3510, 3511, 3512, 3513, 3514, 3515, 3516, 3517, 3518, 3519, 3520, 3521, 3522, 3523, 3524, 3525, 3526, 3527, 3528, 3529]}
+  ],
+  "initialization": "Same independently validated HC1-HC8 repaired school baseline as v2 (results/final-diagnostics/baseline-hc7hc8-v2/repair-candidate.json), shared by all 180 runs",
+  "protocol": "config/school-experiment.hc7hc8.v2.json (rules config/final-school.hc7hc8.v2.json with class_start_first_kbm=true; same protocol as v2 and the repair candidate)",
+  "max_candidate_attempts": 50,
+  "max_evaluations": 100000,
+  "method_version": "sa-feasible-warm-start-hc7hc8-180-v3",
+  "neighborhood": "MOVE/SWAP with feasibility screening (resource occupancy + HC7 Friday forbidden-period screen + class-hole HC8 screen) before Metropolis; search restricted to H=0 over HC1-HC8",
+  "objective": "HC1-HC8; unchanged SC1-SC3, normalization and weights (1:1:2)",
+  "p0": 0.8,
+  "calibration_samples": 200,
+  "purpose": "USER_REQUESTED_180_WARM_START_COHORT_LOWEST_SC_NOT_180_MAIN_EXPERIMENT",
+  "selection": {
+    "canonicalization": "multiset placements within identical immutable assignment groups",
+    "count": 3,
+    "minimum_distance_fraction": 0.05,
+    "pool": "best solution per completed SA run across all 180 runs and 6 configs; initial unchanged solution excluded",
+    "ranking": "S, then SC3, then SC1, then canonical ID"
+  },
+  "stagnation_limit": 20000,
+  "swap_probability": 0.5,
+  "Tmin": 0.001
+}

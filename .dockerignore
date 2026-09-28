@@ -1,0 +1,26 @@
+# Abaikan folder hasil/output yang berat
+results/
+output/
+outputs/
+research_results/
+analysis/
+
+# Abaikan dokumen dan folder dosen
+docs/
+DOSEN/
+README.md
+FINAL_TECHNICAL_AUDIT.md
+REQUIREMENT_TRACEABILITY_MATRIX.md
+
+# Abaikan folder git dan cache
+.git/
+.gitignore
+__pycache__/
+*.pyc
+.pytest_cache/
+tests/
+
+# Abaikan skrip sementara
+tmp/
+scratch/
+*.ps1

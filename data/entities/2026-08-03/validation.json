@@ -1,0 +1,99 @@
+{
+  "status": "passed",
+  "teachers": 58,
+  "classes": 27,
+  "subjects": 21,
+  "teacher_code_mentions_in_class_pdf": 522,
+  "class_mentions_in_teacher_pdf": 522,
+  "multiple_teacher_groups": 5,
+  "unknown_teacher_codes": [],
+  "unknown_class_ids": [],
+  "unparsed_class_tokens": [],
+  "subject_occurrences": {
+    "AGM": {
+      "kelas": 27,
+      "guru": 36
+    },
+    "BIG": {
+      "kelas": 27,
+      "guru": 27
+    },
+    "BIG L": {
+      "kelas": 18,
+      "guru": 18
+    },
+    "BIN": {
+      "kelas": 54,
+      "guru": 54
+    },
+    "BIO": {
+      "kelas": 23,
+      "guru": 23
+    },
+    "BK": {
+      "kelas": 27,
+      "guru": 27
+    },
+    "EKO": {
+      "kelas": 29,
+      "guru": 29
+    },
+    "FIS": {
+      "kelas": 15,
+      "guru": 15
+    },
+    "GEO": {
+      "kelas": 23,
+      "guru": 23
+    },
+    "IND Lanjut": {
+      "kelas": 6,
+      "guru": 6
+    },
+    "Informatika": {
+      "kelas": 19,
+      "guru": 19
+    },
+    "JEPANG": {
+      "kelas": 10,
+      "guru": 10
+    },
+    "KIM": {
+      "kelas": 21,
+      "guru": 21
+    },
+    "KKA": {
+      "kelas": 9,
+      "guru": 9
+    },
+    "MAT": {
+      "kelas": 54,
+      "guru": 54
+    },
+    "MAT P": {
+      "kelas": 12,
+      "guru": 12
+    },
+    "PJOK": {
+      "kelas": 27,
+      "guru": 27
+    },
+    "PPKn": {
+      "kelas": 27,
+      "guru": 27
+    },
+    "SB": {
+      "kelas": 27,
+      "guru": 27
+    },
+    "SEJARAH": {
+      "kelas": 27,
+      "guru": 27
+    },
+    "SOS": {
+      "kelas": 31,
+      "guru": 31
+    }
+  },
+  "limits": "Identitas saja; kecocokan event, pertemuan, JP, menit dan HC belum dievaluasi."
+}

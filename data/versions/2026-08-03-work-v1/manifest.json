@@ -1,0 +1,85 @@
+{
+  "version": "2026-08-03-work-v1",
+  "status": "working_snapshot_not_final_school_validated_dataset",
+  "school_confirmed": false,
+  "reference_feasible": false,
+  "dataset_path": "data/reconciliation/2026-08-03/candidate-dataset.json",
+  "files": [
+    {
+      "path": "data/blocks/2026-08-03/blocks.json",
+      "bytes": 1585112,
+      "sha256": "805775ce12b3807ca79d5ffc6e566f0979eb959ac576cede57dabe82af71d494"
+    },
+    {
+      "path": "data/calendar/2026-08-03/calendar.json",
+      "bytes": 31944,
+      "sha256": "43d6b08f4a361e66c7e936ea1e746a6ea9c7ee0e910d43a828b243651b8b395e"
+    },
+    {
+      "path": "data/entities/2026-08-03/entities.json",
+      "bytes": 648148,
+      "sha256": "66027d7450fcedd85ef8cbb846babca0cdbf06c13eadd84f9f09a9178625459f"
+    },
+    {
+      "path": "data/reconciliation/2026-08-03/candidate-dataset.json",
+      "bytes": 2453009,
+      "sha256": "4cd6b3a9a1b7bea86ffbaa92335ed518474c77d8f6c52f1ddd4872352ebd6df6"
+    },
+    {
+      "path": "data/reconciliation/2026-08-03/issues.json",
+      "bytes": 2932,
+      "sha256": "fb2e8a5f73ee065e0004281887779411cb7db7f0067055b5bd5194faa44a1661"
+    },
+    {
+      "path": "data/reconciliation/2026-08-03/reconciliation.json",
+      "bytes": 219739,
+      "sha256": "174114a21e4ed815aa14c06826e88616a28ebf3979661b988f7efb744930b3e8"
+    },
+    {
+      "path": "data\\sources\\2026-08-03\\Jadwal KBM Guru - Berlaku 03 Agustus 2026.pdf",
+      "bytes": 584999,
+      "sha256": "f25c89ffcf9e3d58f2b6b34aaf725530776840626d8821dee26950ee18227cd4"
+    },
+    {
+      "path": "data\\sources\\2026-08-03\\Jadwal KBM Kelas - Berlaku 03 Agustus 2026.pdf",
+      "bytes": 523848,
+      "sha256": "d0b43c937ac6949ae2d974cd2793148a8422df09065bb7e0084f76f70560b480"
+    },
+    {
+      "path": "scripts/build_august_calendar.py",
+      "bytes": 10277,
+      "sha256": "17fe9c332aa599e25e17bf14c76104ba00a27837b202fe45e63aed79ea682c52"
+    },
+    {
+      "path": "scripts/extract_august_blocks.py",
+      "bytes": 10450,
+      "sha256": "1cc5197a9926bb6b3c080f026f465cb1dc0d793a89f600b7cd5bab5779d772ec"
+    },
+    {
+      "path": "scripts/extract_august_entities.py",
+      "bytes": 10168,
+      "sha256": "31997f7f87dcb4d7b82a25d317396c90cae7c94888a795126631e0c33158a20f"
+    },
+    {
+      "path": "scripts/reconcile_august.py",
+      "bytes": 10859,
+      "sha256": "d90e55154f2cdf983b8117de767b0d996184f1376e59306986078d2dfabf5f9a"
+    },
+    {
+      "path": "scripts/test_august_dataset.py",
+      "bytes": 2676,
+      "sha256": "be3e9e86c25982220296ce1db4a5ac74ffea91525f1a64985eb9c12d9791f50e"
+    },
+    {
+      "path": "scripts/validate_august_dataset.py",
+      "bytes": 10154,
+      "sha256": "16b7777d03686063ddc3a05dd8599a41475434680abb7298541bc8ad5ad0e3d6"
+    },
+    {
+      "path": "validation.json",
+      "bytes": 1431,
+      "sha256": "c8bdb822329b9832018151af3fb4a2fed960c0ae329812263867792da9e96339"
+    }
+  ],
+  "version_policy": "Existing different bytes are rejected; corrections require a new version. No physical write protection is claimed."
+}

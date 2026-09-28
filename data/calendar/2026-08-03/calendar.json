@@ -1,0 +1,1244 @@
+{
+  "schema_version": 1,
+  "calendar_id": "sman8malang-2026-08-03",
+  "effective_from": "2026-08-03",
+  "academic_year": "2026/2027",
+  "status": "transcribed_and_checked_against_pdf_not_school_confirmed",
+  "method": "Manual transcription checked visually against rendered source panel; arithmetic validated by script",
+  "time_basis": "School local clock; minutes since midnight; intervals [start,end)",
+  "scope": "Weekly source calendar, not actual class occupancy or annual holiday calendar",
+  "sources": [
+    {
+      "id": "kelas",
+      "path": "data\\sources\\2026-08-03\\Jadwal KBM Kelas - Berlaku 03 Agustus 2026.pdf",
+      "sha256": "d0b43c937ac6949ae2d974cd2793148a8422df09065bb7e0084f76f70560b480",
+      "reference_page": 1,
+      "equivalent_panel_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "id": "guru",
+      "path": "data\\sources\\2026-08-03\\Jadwal KBM Guru - Berlaku 03 Agustus 2026.pdf",
+      "sha256": "f25c89ffcf9e3d58f2b6b34aaf725530776840626d8821dee26950ee18227cd4",
+      "reference_page": 1,
+      "equivalent_panel_pages": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    }
+  ],
+  "panels": {
+    "senin": {
+      "reference_source": "kelas",
+      "page": 1,
+      "bbox_pdf_points": [
+        649.800018,
+        124.44001049999997,
+        780.7200165,
+        263.640015
+      ],
+      "decoded_image_sha256": "1461c2bfe2b068b519776ee71be99746000c3eca2444d8a966aeb57ed82d7889"
+    },
+    "selasa_kamis": {
+      "reference_source": "kelas",
+      "page": 1,
+      "bbox_pdf_points": [
+        649.9199985,
+        266.16000375000004,
+        780.48,
+        405.24000525
+      ],
+      "decoded_image_sha256": "5e5db10ab5c0fe593745771f87e766679d2f34d2011b1a21dbab72fd5258b1b5"
+    },
+    "jumat": {
+      "reference_source": "kelas",
+      "page": 1,
+      "bbox_pdf_points": [
+        650.6400150000001,
+        406.3200075,
+        780.9600112500001,
+        530.400009
+      ],
+      "decoded_image_sha256": "782d6601f924432f4e7aa0eb26df2a3df4598f9e0333e90fcf986840150bc384"
+    }
+  },
+  "four_k_legend": {
+    "1": "Kepenasehatan",
+    "2": "Kerohanian",
+    "3": "Kebersihan",
+    "4": "Kesehatan"
+  },
+  "four_k_fifth_friday": null,
+  "four_k_legend_note": "Label Jumat 1–4 ditranskripsi; pemetaan tanggal dan Jumat kelima belum dikonfirmasi",
+  "days": [
+    {
+      "id": "senin",
+      "name": "Senin",
+      "panel": "senin",
+      "segments": [
+        {
+          "id": "senin-01",
+          "period": 1,
+          "start": "06:45",
+          "end": "07:45",
+          "start_minute": 405,
+          "end_minute": 465,
+          "duration_minutes": 60,
+          "kind": "fixed",
+          "source_label": "UPCR",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 1
+          }
+        },
+        {
+          "id": "senin-02",
+          "period": 2,
+          "start": "07:45",
+          "end": "08:30",
+          "start_minute": 465,
+          "end_minute": 510,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 2
+          }
+        },
+        {
+          "id": "senin-03",
+          "period": 3,
+          "start": "08:30",
+          "end": "09:15",
+          "start_minute": 510,
+          "end_minute": 555,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 3
+          }
+        },
+        {
+          "id": "senin-04",
+          "period": 4,
+          "start": "09:15",
+          "end": "10:00",
+          "start_minute": 555,
+          "end_minute": 600,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 4
+          }
+        },
+        {
+          "id": "senin-05",
+          "period": null,
+          "start": "10:00",
+          "end": "10:15",
+          "start_minute": 600,
+          "end_minute": 615,
+          "duration_minutes": 15,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 5
+          }
+        },
+        {
+          "id": "senin-06",
+          "period": 5,
+          "start": "10:15",
+          "end": "11:00",
+          "start_minute": 615,
+          "end_minute": 660,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 6
+          }
+        },
+        {
+          "id": "senin-07",
+          "period": 6,
+          "start": "11:00",
+          "end": "11:45",
+          "start_minute": 660,
+          "end_minute": 705,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 7
+          }
+        },
+        {
+          "id": "senin-08",
+          "period": null,
+          "start": "11:45",
+          "end": "12:30",
+          "start_minute": 705,
+          "end_minute": 750,
+          "duration_minutes": 45,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 8
+          }
+        },
+        {
+          "id": "senin-09",
+          "period": 7,
+          "start": "12:30",
+          "end": "13:10",
+          "start_minute": 750,
+          "end_minute": 790,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 9
+          }
+        },
+        {
+          "id": "senin-10",
+          "period": 8,
+          "start": "13:10",
+          "end": "13:50",
+          "start_minute": 790,
+          "end_minute": 830,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 10
+          }
+        },
+        {
+          "id": "senin-11",
+          "period": 9,
+          "start": "13:50",
+          "end": "14:30",
+          "start_minute": 830,
+          "end_minute": 870,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 11
+          }
+        },
+        {
+          "id": "senin-12",
+          "period": 10,
+          "start": "14:30",
+          "end": "15:10",
+          "start_minute": 870,
+          "end_minute": 910,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "senin",
+            "body_row": 12
+          }
+        }
+      ],
+      "summary": {
+        "numbered_periods": 10,
+        "kbm_jp": 9,
+        "kbm_minutes": 385,
+        "break_minutes": 60,
+        "fixed_minutes": 60,
+        "elapsed_minutes": 505
+      }
+    },
+    {
+      "id": "selasa",
+      "name": "Selasa",
+      "panel": "selasa_kamis",
+      "segments": [
+        {
+          "id": "selasa-01",
+          "period": 1,
+          "start": "06:45",
+          "end": "07:30",
+          "start_minute": 405,
+          "end_minute": 450,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 1
+          }
+        },
+        {
+          "id": "selasa-02",
+          "period": 2,
+          "start": "07:30",
+          "end": "08:15",
+          "start_minute": 450,
+          "end_minute": 495,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 2
+          }
+        },
+        {
+          "id": "selasa-03",
+          "period": 3,
+          "start": "08:15",
+          "end": "09:00",
+          "start_minute": 495,
+          "end_minute": 540,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 3
+          }
+        },
+        {
+          "id": "selasa-04",
+          "period": 4,
+          "start": "09:00",
+          "end": "09:45",
+          "start_minute": 540,
+          "end_minute": 585,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 4
+          }
+        },
+        {
+          "id": "selasa-05",
+          "period": null,
+          "start": "09:45",
+          "end": "10:00",
+          "start_minute": 585,
+          "end_minute": 600,
+          "duration_minutes": 15,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 5
+          }
+        },
+        {
+          "id": "selasa-06",
+          "period": 5,
+          "start": "10:00",
+          "end": "10:45",
+          "start_minute": 600,
+          "end_minute": 645,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 6
+          }
+        },
+        {
+          "id": "selasa-07",
+          "period": 6,
+          "start": "10:45",
+          "end": "11:30",
+          "start_minute": 645,
+          "end_minute": 690,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 7
+          }
+        },
+        {
+          "id": "selasa-08",
+          "period": null,
+          "start": "11:30",
+          "end": "12:15",
+          "start_minute": 690,
+          "end_minute": 735,
+          "duration_minutes": 45,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 8
+          }
+        },
+        {
+          "id": "selasa-09",
+          "period": 7,
+          "start": "12:15",
+          "end": "13:00",
+          "start_minute": 735,
+          "end_minute": 780,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 9
+          }
+        },
+        {
+          "id": "selasa-10",
+          "period": 8,
+          "start": "13:00",
+          "end": "13:45",
+          "start_minute": 780,
+          "end_minute": 825,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 10
+          }
+        },
+        {
+          "id": "selasa-11",
+          "period": 9,
+          "start": "13:45",
+          "end": "14:30",
+          "start_minute": 825,
+          "end_minute": 870,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 11
+          }
+        },
+        {
+          "id": "selasa-12",
+          "period": 10,
+          "start": "14:30",
+          "end": "15:15",
+          "start_minute": 870,
+          "end_minute": 915,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 12
+          }
+        }
+      ],
+      "summary": {
+        "numbered_periods": 10,
+        "kbm_jp": 10,
+        "kbm_minutes": 450,
+        "break_minutes": 60,
+        "fixed_minutes": 0,
+        "elapsed_minutes": 510
+      }
+    },
+    {
+      "id": "rabu",
+      "name": "Rabu",
+      "panel": "selasa_kamis",
+      "segments": [
+        {
+          "id": "rabu-01",
+          "period": 1,
+          "start": "06:45",
+          "end": "07:30",
+          "start_minute": 405,
+          "end_minute": 450,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 1
+          }
+        },
+        {
+          "id": "rabu-02",
+          "period": 2,
+          "start": "07:30",
+          "end": "08:15",
+          "start_minute": 450,
+          "end_minute": 495,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 2
+          }
+        },
+        {
+          "id": "rabu-03",
+          "period": 3,
+          "start": "08:15",
+          "end": "09:00",
+          "start_minute": 495,
+          "end_minute": 540,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 3
+          }
+        },
+        {
+          "id": "rabu-04",
+          "period": 4,
+          "start": "09:00",
+          "end": "09:45",
+          "start_minute": 540,
+          "end_minute": 585,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 4
+          }
+        },
+        {
+          "id": "rabu-05",
+          "period": null,
+          "start": "09:45",
+          "end": "10:00",
+          "start_minute": 585,
+          "end_minute": 600,
+          "duration_minutes": 15,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 5
+          }
+        },
+        {
+          "id": "rabu-06",
+          "period": 5,
+          "start": "10:00",
+          "end": "10:45",
+          "start_minute": 600,
+          "end_minute": 645,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 6
+          }
+        },
+        {
+          "id": "rabu-07",
+          "period": 6,
+          "start": "10:45",
+          "end": "11:30",
+          "start_minute": 645,
+          "end_minute": 690,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 7
+          }
+        },
+        {
+          "id": "rabu-08",
+          "period": null,
+          "start": "11:30",
+          "end": "12:15",
+          "start_minute": 690,
+          "end_minute": 735,
+          "duration_minutes": 45,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 8
+          }
+        },
+        {
+          "id": "rabu-09",
+          "period": 7,
+          "start": "12:15",
+          "end": "13:00",
+          "start_minute": 735,
+          "end_minute": 780,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 9
+          }
+        },
+        {
+          "id": "rabu-10",
+          "period": 8,
+          "start": "13:00",
+          "end": "13:45",
+          "start_minute": 780,
+          "end_minute": 825,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 10
+          }
+        },
+        {
+          "id": "rabu-11",
+          "period": 9,
+          "start": "13:45",
+          "end": "14:30",
+          "start_minute": 825,
+          "end_minute": 870,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 11
+          }
+        },
+        {
+          "id": "rabu-12",
+          "period": 10,
+          "start": "14:30",
+          "end": "15:15",
+          "start_minute": 870,
+          "end_minute": 915,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 12
+          }
+        }
+      ],
+      "summary": {
+        "numbered_periods": 10,
+        "kbm_jp": 10,
+        "kbm_minutes": 450,
+        "break_minutes": 60,
+        "fixed_minutes": 0,
+        "elapsed_minutes": 510
+      }
+    },
+    {
+      "id": "kamis",
+      "name": "Kamis",
+      "panel": "selasa_kamis",
+      "segments": [
+        {
+          "id": "kamis-01",
+          "period": 1,
+          "start": "06:45",
+          "end": "07:30",
+          "start_minute": 405,
+          "end_minute": 450,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 1
+          }
+        },
+        {
+          "id": "kamis-02",
+          "period": 2,
+          "start": "07:30",
+          "end": "08:15",
+          "start_minute": 450,
+          "end_minute": 495,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 2
+          }
+        },
+        {
+          "id": "kamis-03",
+          "period": 3,
+          "start": "08:15",
+          "end": "09:00",
+          "start_minute": 495,
+          "end_minute": 540,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 3
+          }
+        },
+        {
+          "id": "kamis-04",
+          "period": 4,
+          "start": "09:00",
+          "end": "09:45",
+          "start_minute": 540,
+          "end_minute": 585,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 4
+          }
+        },
+        {
+          "id": "kamis-05",
+          "period": null,
+          "start": "09:45",
+          "end": "10:00",
+          "start_minute": 585,
+          "end_minute": 600,
+          "duration_minutes": 15,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 5
+          }
+        },
+        {
+          "id": "kamis-06",
+          "period": 5,
+          "start": "10:00",
+          "end": "10:45",
+          "start_minute": 600,
+          "end_minute": 645,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 6
+          }
+        },
+        {
+          "id": "kamis-07",
+          "period": 6,
+          "start": "10:45",
+          "end": "11:30",
+          "start_minute": 645,
+          "end_minute": 690,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 7
+          }
+        },
+        {
+          "id": "kamis-08",
+          "period": null,
+          "start": "11:30",
+          "end": "12:15",
+          "start_minute": 690,
+          "end_minute": 735,
+          "duration_minutes": 45,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 8
+          }
+        },
+        {
+          "id": "kamis-09",
+          "period": 7,
+          "start": "12:15",
+          "end": "13:00",
+          "start_minute": 735,
+          "end_minute": 780,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 9
+          }
+        },
+        {
+          "id": "kamis-10",
+          "period": 8,
+          "start": "13:00",
+          "end": "13:45",
+          "start_minute": 780,
+          "end_minute": 825,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 10
+          }
+        },
+        {
+          "id": "kamis-11",
+          "period": 9,
+          "start": "13:45",
+          "end": "14:30",
+          "start_minute": 825,
+          "end_minute": 870,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 11
+          }
+        },
+        {
+          "id": "kamis-12",
+          "period": 10,
+          "start": "14:30",
+          "end": "15:15",
+          "start_minute": 870,
+          "end_minute": 915,
+          "duration_minutes": 45,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "selasa_kamis",
+            "body_row": 12
+          }
+        }
+      ],
+      "summary": {
+        "numbered_periods": 10,
+        "kbm_jp": 10,
+        "kbm_minutes": 450,
+        "break_minutes": 60,
+        "fixed_minutes": 0,
+        "elapsed_minutes": 510
+      }
+    },
+    {
+      "id": "jumat",
+      "name": "Jumat",
+      "panel": "jumat",
+      "segments": [
+        {
+          "id": "jumat-01",
+          "period": 1,
+          "start": "06:45",
+          "end": "07:20",
+          "start_minute": 405,
+          "end_minute": 440,
+          "duration_minutes": 35,
+          "kind": "fixed",
+          "source_label": "4K",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 1
+          }
+        },
+        {
+          "id": "jumat-02",
+          "period": 2,
+          "start": "07:20",
+          "end": "08:00",
+          "start_minute": 440,
+          "end_minute": 480,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 2
+          }
+        },
+        {
+          "id": "jumat-03",
+          "period": 3,
+          "start": "08:00",
+          "end": "08:40",
+          "start_minute": 480,
+          "end_minute": 520,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 3
+          }
+        },
+        {
+          "id": "jumat-04",
+          "period": 4,
+          "start": "08:40",
+          "end": "09:20",
+          "start_minute": 520,
+          "end_minute": 560,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 4
+          }
+        },
+        {
+          "id": "jumat-05",
+          "period": null,
+          "start": "09:20",
+          "end": "09:35",
+          "start_minute": 560,
+          "end_minute": 575,
+          "duration_minutes": 15,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 5
+          }
+        },
+        {
+          "id": "jumat-06",
+          "period": 5,
+          "start": "09:35",
+          "end": "10:15",
+          "start_minute": 575,
+          "end_minute": 615,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 6
+          }
+        },
+        {
+          "id": "jumat-07",
+          "period": 6,
+          "start": "10:15",
+          "end": "10:55",
+          "start_minute": 615,
+          "end_minute": 655,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 7
+          }
+        },
+        {
+          "id": "jumat-08",
+          "period": 7,
+          "start": "10:55",
+          "end": "11:30",
+          "start_minute": 655,
+          "end_minute": 690,
+          "duration_minutes": 35,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 8
+          }
+        },
+        {
+          "id": "jumat-09",
+          "period": null,
+          "start": "11:30",
+          "end": "13:00",
+          "start_minute": 690,
+          "end_minute": 780,
+          "duration_minutes": 90,
+          "kind": "break",
+          "source_label": "Istirahat",
+          "kbm_jp": 0,
+          "lesson_allowed": false,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 9
+          }
+        },
+        {
+          "id": "jumat-10",
+          "period": 8,
+          "start": "13:00",
+          "end": "13:40",
+          "start_minute": 780,
+          "end_minute": 820,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 10
+          }
+        },
+        {
+          "id": "jumat-11",
+          "period": 9,
+          "start": "13:40",
+          "end": "14:20",
+          "start_minute": 820,
+          "end_minute": 860,
+          "duration_minutes": 40,
+          "kind": "kbm",
+          "source_label": "KBM",
+          "kbm_jp": 1,
+          "lesson_allowed": true,
+          "source_ref": {
+            "panel": "jumat",
+            "body_row": 11
+          }
+        }
+      ],
+      "summary": {
+        "numbered_periods": 9,
+        "kbm_jp": 8,
+        "kbm_minutes": 315,
+        "break_minutes": 105,
+        "fixed_minutes": 35,
+        "elapsed_minutes": 455
+      }
+    }
+  ],
+  "weekly_summary": {
+    "numbered_periods": 49,
+    "kbm_jp": 47,
+    "kbm_minutes": 2050,
+    "break_minutes": 345,
+    "fixed_minutes": 95,
+    "elapsed_minutes": 2490
+  }
+}

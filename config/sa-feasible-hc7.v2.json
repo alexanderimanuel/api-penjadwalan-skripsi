@@ -1,0 +1,37 @@
+{
+  "alpha": 0.95,
+  "authority": "User corrected 2026-09-24: XI-XII barred from Friday periods 8-10, X capped at period 9 (per-row HC7). User requested warm-start re-run for 3 compliant recommendations; reported separately from constructive 180-run main experiment.",
+  "initialization": "Independently validated repaired school baseline shared by all seeds (Wednesday PJOK HC1 fix; Friday placements verified against period limits)",
+  "L_multiplier": 1,
+  "max_candidate_attempts": 50,
+  "max_evaluations": 100000,
+  "method_version": "sa-feasible-warm-start-hc7-v2",
+  "neighborhood": "MOVE/SWAP with feasibility screening (resource occupancy + HC7 Friday forbidden-period screen) before Metropolis; search is restricted to H=0 over HC1-HC7",
+  "objective": "Unchanged F=2H+S over HC1-HC7/SC1-SC3; H=0 within feasible search",
+  "p0": 0.8,
+  "calibration_samples": 200,
+  "prior_frozen_artifacts": "Preserved; HC7-total-JP warm-start v1 A/B/C invalidated under period rule (A 7 events/7 classes, B 7/7, C 2/2 on Friday periods 8-9).",
+  "purpose": "USER_REQUESTED_THREE_SA_RECOMMENDATIONS_HC7_PERIOD_NOT_180_RUN_MAIN_EXPERIMENT",
+  "seeds": [
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009
+  ],
+  "selection": {
+    "canonicalization": "multiset placements within identical immutable assignment groups",
+    "count": 3,
+    "minimum_distance_fraction": 0.05,
+    "pool": "best solution per completed SA run; initial unchanged solution excluded"
+  },
+  "stop_cohort_when": "Three independent-validator-approved (HC1-HC7), pairwise-diverse SA best solutions available",
+  "stagnation_limit": 20000,
+  "swap_probability": 0.5,
+  "Tmin": 0.001
+}

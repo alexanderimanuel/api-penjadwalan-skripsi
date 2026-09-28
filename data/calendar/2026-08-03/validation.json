@@ -1,0 +1,26 @@
+{
+  "status": "passed",
+  "source_files_hash_verified": 2,
+  "panel_pages_checked_against_inventory": 85,
+  "checks": [
+    "source SHA-256",
+    "three matching panel hashes on every inventoried page",
+    "positive duration",
+    "continuous non-overlapping segments",
+    "consecutive period numbers",
+    "daily time accounting",
+    "weekly totals",
+    "HC4 duration and break examples",
+    "HC5 fixed-slot and out-of-calendar rejection",
+    "JSON read-back"
+  ],
+  "weekly_summary": {
+    "numbered_periods": 49,
+    "kbm_jp": 47,
+    "kbm_minutes": 2050,
+    "break_minutes": 345,
+    "fixed_minutes": 95,
+    "elapsed_minutes": 2490
+  },
+  "limits": "Calendar-only checks; no timetable event reconciliation or constraint evaluation yet"
+}

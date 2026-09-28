@@ -1,0 +1,2054 @@
+{
+  "E-kelas-01-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-01-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-01-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-01-05": {
+    "day": "senin",
+    "start_period": 9
+  },
+  "E-kelas-01-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-01-07": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-01-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-01-09": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-01-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-01-11": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-01-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-01-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-01-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-01-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-01-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-01-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-01-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-01-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-01-21": {
+    "day": "jumat",
+    "start_period": 7
+  },
+  "E-kelas-02-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-02-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-02-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-02-05": {
+    "day": "senin",
+    "start_period": 9
+  },
+  "E-kelas-02-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-02-07": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-02-08": {
+    "day": "selasa",
+    "start_period": 7
+  },
+  "E-kelas-02-09": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-02-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-02-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-02-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-02-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-02-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-02-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-02-16": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-02-17": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-02-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-02-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-02-21": {
+    "day": "jumat",
+    "start_period": 7
+  },
+  "E-kelas-03-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-03-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-03-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-03-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-03-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-03-07": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-03-08": {
+    "day": "selasa",
+    "start_period": 7
+  },
+  "E-kelas-03-09": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-03-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-03-11": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-03-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-03-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-03-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-03-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-03-16": {
+    "day": "kamis",
+    "start_period": 6
+  },
+  "E-kelas-03-17": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-03-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-03-20": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-03-21": {
+    "day": "jumat",
+    "start_period": 7
+  },
+  "E-kelas-04-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-04-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-04-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-04-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-04-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-04-07": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-04-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-04-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-04-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-04-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-04-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-04-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-04-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-04-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-04-16": {
+    "day": "kamis",
+    "start_period": 6
+  },
+  "E-kelas-04-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-04-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-04-20": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-04-21": {
+    "day": "jumat",
+    "start_period": 8
+  },
+  "E-kelas-05-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-05-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-05-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-05-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-05-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-05-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-05-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-05-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-05-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-05-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-05-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-05-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-05-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-05-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-05-16": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-05-17": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-05-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-05-20": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-05-21": {
+    "day": "jumat",
+    "start_period": 8
+  },
+  "E-kelas-06-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-06-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-06-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-06-05": {
+    "day": "senin",
+    "start_period": 10
+  },
+  "E-kelas-06-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-06-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-06-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-06-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-06-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-06-11": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-06-12": {
+    "day": "rabu",
+    "start_period": 6
+  },
+  "E-kelas-06-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-06-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-06-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-06-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-06-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-06-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-06-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-06-21": {
+    "day": "jumat",
+    "start_period": 7
+  },
+  "E-kelas-07-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-07-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-07-04": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-07-05": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-07-06": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-07-07": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-07-08": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-07-09": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-07-10": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-07-11": {
+    "day": "rabu",
+    "start_period": 6
+  },
+  "E-kelas-07-12": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-07-13": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-07-14": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-07-15": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-07-16": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-07-18": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-07-19": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-07-20": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-07-21": {
+    "day": "jumat",
+    "start_period": 8
+  },
+  "E-kelas-08-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-08-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-08-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-08-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-08-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-08-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-08-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-08-09": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-08-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-08-11": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-08-12": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-08-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-08-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-08-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-08-16": {
+    "day": "kamis",
+    "start_period": 6
+  },
+  "E-kelas-08-17": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-08-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-08-20": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-08-21": {
+    "day": "jumat",
+    "start_period": 7
+  },
+  "E-kelas-09-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-09-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-09-04": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-09-05": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-09-06": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-09-07": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-09-08": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-09-09": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-09-10": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-09-11": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-09-12": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-09-13": {
+    "day": "rabu",
+    "start_period": 9
+  },
+  "E-kelas-09-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-09-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-09-16": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-09-17": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-09-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-09-20": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-09-21": {
+    "day": "jumat",
+    "start_period": 7
+  },
+  "E-kelas-10-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-10-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-10-04": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-10-05": {
+    "day": "senin",
+    "start_period": 9
+  },
+  "E-kelas-10-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-10-07": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-10-08": {
+    "day": "selasa",
+    "start_period": 7
+  },
+  "E-kelas-10-09": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-10-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-10-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-10-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-10-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-10-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-10-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-10-16": {
+    "day": "kamis",
+    "start_period": 6
+  },
+  "E-kelas-10-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-10-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-10-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-10-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-11-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-11-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-11-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-11-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-11-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-11-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-11-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-11-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-11-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-11-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-11-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-11-13": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-11-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-11-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-11-16": {
+    "day": "kamis",
+    "start_period": 6
+  },
+  "E-kelas-11-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-11-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-11-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-11-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-12-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-12-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-12-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-12-05": {
+    "day": "senin",
+    "start_period": 9
+  },
+  "E-kelas-12-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-12-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-12-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-12-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-12-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-12-11": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-12-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-12-13": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-12-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-12-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-12-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-12-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-12-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-12-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-12-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-13-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-13-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-13-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-13-05": {
+    "day": "senin",
+    "start_period": 9
+  },
+  "E-kelas-13-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-13-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-13-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-13-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-13-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-13-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-13-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-13-13": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-13-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-13-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-13-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-13-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-13-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-13-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-13-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-14-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-14-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-14-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-14-05": {
+    "day": "senin",
+    "start_period": 9
+  },
+  "E-kelas-14-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-14-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-14-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-14-09": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-14-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-14-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-14-12": {
+    "day": "rabu",
+    "start_period": 6
+  },
+  "E-kelas-14-13": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-14-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-14-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-14-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-14-17": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-14-18": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-14-20": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-14-21": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-15-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-15-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-15-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-15-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-15-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-15-07": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-15-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-15-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-15-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-15-11": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-15-12": {
+    "day": "rabu",
+    "start_period": 6
+  },
+  "E-kelas-15-13": {
+    "day": "rabu",
+    "start_period": 9
+  },
+  "E-kelas-15-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-15-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-15-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-15-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-15-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-15-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-15-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-16-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-16-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-16-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-16-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-16-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-16-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-16-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-16-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-16-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-16-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-16-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-16-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-16-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-16-15": {
+    "day": "kamis",
+    "start_period": 4
+  },
+  "E-kelas-16-16": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-16-17": {
+    "day": "kamis",
+    "start_period": 10
+  },
+  "E-kelas-16-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-16-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-16-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-17-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-17-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-17-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-17-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-17-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-17-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-17-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-17-09": {
+    "day": "selasa",
+    "start_period": 7
+  },
+  "E-kelas-17-10": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-17-11": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-17-12": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-17-13": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-17-14": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-17-15": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-17-16": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-17-17": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-17-18": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-17-20": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-17-21": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-18-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-18-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-18-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-18-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-18-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-18-07": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-18-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-18-09": {
+    "day": "selasa",
+    "start_period": 7
+  },
+  "E-kelas-18-10": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-18-11": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-18-12": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-18-13": {
+    "day": "rabu",
+    "start_period": 6
+  },
+  "E-kelas-18-14": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-18-15": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-18-16": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-18-17": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-18-18": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-18-20": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-18-21": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-19-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-19-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-19-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-19-05": {
+    "day": "senin",
+    "start_period": 9
+  },
+  "E-kelas-19-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-19-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-19-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-19-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-19-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-19-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-19-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-19-13": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-19-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-19-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-19-16": {
+    "day": "kamis",
+    "start_period": 6
+  },
+  "E-kelas-19-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-19-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-19-20": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-19-21": {
+    "day": "jumat",
+    "start_period": 7
+  },
+  "E-kelas-20-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-20-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-20-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-20-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-20-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-20-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-20-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-20-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-20-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-20-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-20-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-20-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-20-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-20-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-20-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-20-17": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-20-18": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-20-20": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-20-21": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-21-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-21-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-21-04": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-21-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-21-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-21-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-21-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-21-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-21-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-21-11": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-21-12": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-21-13": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-21-14": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-21-15": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-21-16": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-21-17": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-21-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-21-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-21-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-22-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-22-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-22-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-22-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-22-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-22-07": {
+    "day": "selasa",
+    "start_period": 4
+  },
+  "E-kelas-22-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-22-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-22-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-22-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-22-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-22-13": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-22-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-22-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-22-16": {
+    "day": "kamis",
+    "start_period": 6
+  },
+  "E-kelas-22-17": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-22-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-22-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-22-21": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-23-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-23-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-23-04": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-23-05": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-23-06": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-23-07": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-23-08": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-23-09": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-23-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-23-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-23-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-23-13": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-23-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-23-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-23-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-23-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-23-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-23-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-23-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-24-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-24-03": {
+    "day": "senin",
+    "start_period": 5
+  },
+  "E-kelas-24-04": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-24-05": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-24-06": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-24-07": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-24-08": {
+    "day": "selasa",
+    "start_period": 7
+  },
+  "E-kelas-24-09": {
+    "day": "selasa",
+    "start_period": 9
+  },
+  "E-kelas-24-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-24-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-24-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-24-13": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-24-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-24-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-24-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-24-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-24-18": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-24-20": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-24-21": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-25-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-25-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-25-04": {
+    "day": "senin",
+    "start_period": 7
+  },
+  "E-kelas-25-05": {
+    "day": "senin",
+    "start_period": 9
+  },
+  "E-kelas-25-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-25-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-25-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-25-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-25-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-25-11": {
+    "day": "rabu",
+    "start_period": 2
+  },
+  "E-kelas-25-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-25-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-25-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-25-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-25-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-25-17": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-25-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-25-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-25-21": {
+    "day": "jumat",
+    "start_period": 6
+  },
+  "E-kelas-26-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-26-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-26-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-26-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-26-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-26-07": {
+    "day": "selasa",
+    "start_period": 3
+  },
+  "E-kelas-26-08": {
+    "day": "selasa",
+    "start_period": 6
+  },
+  "E-kelas-26-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-26-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-26-11": {
+    "day": "rabu",
+    "start_period": 3
+  },
+  "E-kelas-26-12": {
+    "day": "rabu",
+    "start_period": 5
+  },
+  "E-kelas-26-13": {
+    "day": "rabu",
+    "start_period": 8
+  },
+  "E-kelas-26-14": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-26-15": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-26-16": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-26-17": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-26-18": {
+    "day": "kamis",
+    "start_period": 8
+  },
+  "E-kelas-26-20": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-26-21": {
+    "day": "jumat",
+    "start_period": 5
+  },
+  "E-kelas-27-02": {
+    "day": "senin",
+    "start_period": 2
+  },
+  "E-kelas-27-03": {
+    "day": "senin",
+    "start_period": 4
+  },
+  "E-kelas-27-04": {
+    "day": "senin",
+    "start_period": 6
+  },
+  "E-kelas-27-05": {
+    "day": "senin",
+    "start_period": 8
+  },
+  "E-kelas-27-06": {
+    "day": "selasa",
+    "start_period": 1
+  },
+  "E-kelas-27-07": {
+    "day": "selasa",
+    "start_period": 2
+  },
+  "E-kelas-27-08": {
+    "day": "selasa",
+    "start_period": 5
+  },
+  "E-kelas-27-09": {
+    "day": "selasa",
+    "start_period": 8
+  },
+  "E-kelas-27-10": {
+    "day": "rabu",
+    "start_period": 1
+  },
+  "E-kelas-27-11": {
+    "day": "rabu",
+    "start_period": 4
+  },
+  "E-kelas-27-12": {
+    "day": "rabu",
+    "start_period": 7
+  },
+  "E-kelas-27-13": {
+    "day": "kamis",
+    "start_period": 1
+  },
+  "E-kelas-27-14": {
+    "day": "kamis",
+    "start_period": 3
+  },
+  "E-kelas-27-15": {
+    "day": "kamis",
+    "start_period": 5
+  },
+  "E-kelas-27-16": {
+    "day": "kamis",
+    "start_period": 7
+  },
+  "E-kelas-27-17": {
+    "day": "kamis",
+    "start_period": 9
+  },
+  "E-kelas-27-19": {
+    "day": "jumat",
+    "start_period": 2
+  },
+  "E-kelas-27-20": {
+    "day": "jumat",
+    "start_period": 4
+  },
+  "E-kelas-27-21": {
+    "day": "jumat",
+    "start_period": 6
+  }
+}

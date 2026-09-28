@@ -1,0 +1,1011 @@
+{
+  "HC1": 1,
+  "HC2": 0,
+  "HC3": 0,
+  "HC4": 0,
+  "HC5": 0,
+  "HC6": 0,
+  "H": 1,
+  "SC1": 246,
+  "SC2": 0,
+  "S": 246,
+  "M": 2273,
+  "F": 2519,
+  "feasible": false,
+  "details": {
+    "HC1_pairs": [
+      {
+        "event_ids": [
+          "E-kelas-10-12",
+          "E-kelas-27-12"
+        ],
+        "shared_ids": [
+          "39"
+        ]
+      }
+    ],
+    "HC2_pairs": [],
+    "SC1_gaps": [
+      {
+        "teacher_code": "10",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          3,
+          4,
+          5,
+          8
+        ]
+      },
+      {
+        "teacher_code": "10",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "10",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "11",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "12",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "13",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          2,
+          3
+        ]
+      },
+      {
+        "teacher_code": "14",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "14",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "14",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "14",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "14",
+        "day": "senin",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "15",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          3,
+          4
+        ]
+      },
+      {
+        "teacher_code": "16",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          9
+        ]
+      },
+      {
+        "teacher_code": "16",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "16",
+        "day": "senin",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "18",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "19",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "19",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "19",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          4,
+          5
+        ]
+      },
+      {
+        "teacher_code": "19",
+        "day": "senin",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "2",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          3
+        ]
+      },
+      {
+        "teacher_code": "20",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "20",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "20",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          4,
+          5
+        ]
+      },
+      {
+        "teacher_code": "21",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "21",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "21",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "21",
+        "day": "senin",
+        "empty_kbm_periods": [
+          4,
+          5,
+          8
+        ]
+      },
+      {
+        "teacher_code": "22",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "23",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "23",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "23",
+        "day": "senin",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "24",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "24",
+        "day": "senin",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "25",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "25",
+        "day": "senin",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "26",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          3,
+          4
+        ]
+      },
+      {
+        "teacher_code": "27",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "28",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "28",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "28",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "29",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          3,
+          4
+        ]
+      },
+      {
+        "teacher_code": "29",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "29",
+        "day": "senin",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "3",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "3",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "teacher_code": "3",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "3",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "3",
+        "day": "senin",
+        "empty_kbm_periods": [
+          8
+        ]
+      },
+      {
+        "teacher_code": "30",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "30",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "teacher_code": "30",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "30",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "31",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          4,
+          5
+        ]
+      },
+      {
+        "teacher_code": "31",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "teacher_code": "31",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "31",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "32",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          3,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "32",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          3,
+          4,
+          5
+        ]
+      },
+      {
+        "teacher_code": "32",
+        "day": "senin",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "34",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          5,
+          7,
+          8
+        ]
+      },
+      {
+        "teacher_code": "34",
+        "day": "senin",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "35",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          8
+        ]
+      },
+      {
+        "teacher_code": "35",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "36",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "36",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "37",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "37",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          3,
+          7
+        ]
+      },
+      {
+        "teacher_code": "38",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          3,
+          4,
+          8
+        ]
+      },
+      {
+        "teacher_code": "38",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          8
+        ]
+      },
+      {
+        "teacher_code": "38",
+        "day": "senin",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "40",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "40",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          3,
+          4
+        ]
+      },
+      {
+        "teacher_code": "40",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "41",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          4,
+          7
+        ]
+      },
+      {
+        "teacher_code": "41",
+        "day": "senin",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "42",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "42",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "43",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "44",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "44",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          3,
+          4,
+          5,
+          8
+        ]
+      },
+      {
+        "teacher_code": "45",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          3
+        ]
+      },
+      {
+        "teacher_code": "48",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "48",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "48",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          4,
+          8
+        ]
+      },
+      {
+        "teacher_code": "49",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "teacher_code": "5",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "5",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "5",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          4,
+          5
+        ]
+      },
+      {
+        "teacher_code": "5",
+        "day": "senin",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "50",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "50",
+        "day": "senin",
+        "empty_kbm_periods": [
+          4,
+          7
+        ]
+      },
+      {
+        "teacher_code": "51",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "51",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "51",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "51",
+        "day": "senin",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "53",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "54",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "54",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "54",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "54",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "54",
+        "day": "senin",
+        "empty_kbm_periods": [
+          8
+        ]
+      },
+      {
+        "teacher_code": "55",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          5,
+          6
+        ]
+      },
+      {
+        "teacher_code": "55",
+        "day": "senin",
+        "empty_kbm_periods": [
+          8,
+          9
+        ]
+      },
+      {
+        "teacher_code": "56",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "56",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          4,
+          5
+        ]
+      },
+      {
+        "teacher_code": "56",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          3,
+          4
+        ]
+      },
+      {
+        "teacher_code": "56",
+        "day": "senin",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "57",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "57",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "57",
+        "day": "senin",
+        "empty_kbm_periods": [
+          5
+        ]
+      },
+      {
+        "teacher_code": "58",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "58",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "teacher_code": "58",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      {
+        "teacher_code": "6",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          4
+        ]
+      },
+      {
+        "teacher_code": "7",
+        "day": "jumat",
+        "empty_kbm_periods": [
+          7
+        ]
+      },
+      {
+        "teacher_code": "7",
+        "day": "kamis",
+        "empty_kbm_periods": [
+          8
+        ]
+      },
+      {
+        "teacher_code": "7",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          6
+        ]
+      },
+      {
+        "teacher_code": "7",
+        "day": "senin",
+        "empty_kbm_periods": [
+          7,
+          8
+        ]
+      },
+      {
+        "teacher_code": "8",
+        "day": "rabu",
+        "empty_kbm_periods": [
+          4,
+          5
+        ]
+      },
+      {
+        "teacher_code": "8",
+        "day": "selasa",
+        "empty_kbm_periods": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      {
+        "teacher_code": "9",
+        "day": "senin",
+        "empty_kbm_periods": [
+          5,
+          6,
+          7
+        ]
+      }
+    ],
+    "SC2_groups": []
+  },
+  "scope": "Complete immutable events, domain-valid placements, model-v1 assumptions; not school approval."
+}

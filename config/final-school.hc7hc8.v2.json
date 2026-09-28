@@ -1,0 +1,151 @@
+{
+  "rules_version": "final-hc7-period-hc8-first-kbm-2026-09-24-v2",
+  "weights_version": "user-1-1-2-2026-09-21",
+  "normalization_version": "theoretical-bounds-v1",
+  "reviewed_for_dataset": true,
+  "assignment_semantics_decision": {
+    "status": "USER_APPROVED_RESEARCH_ASSUMPTIONS",
+    "source": "docs/Tahap-08-Pemodelan-Operasional.md",
+    "value": "one class event, all recorded teachers synchronized; original source issue retained",
+    "authorization": "User explicitly requested running real school data after explanation of current assumptions; 2026-09-21. Not a school interview or school confirmation."
+  },
+  "difficulty": {
+    "version": "user-grade-family-2026-09-21-v1",
+    "source": "Two explicit user replies in current task on 2026-09-21; not represented as signed interview",
+    "by_grade": {
+      "X": {
+        "AGM": "NON_HIGH",
+        "BIG": "MEDIUM",
+        "BIG L": "MEDIUM",
+        "BIN": "MEDIUM",
+        "BIO": "MEDIUM",
+        "BK": "NON_HIGH",
+        "EKO": "NON_HIGH",
+        "FIS": "HIGH",
+        "GEO": "NON_HIGH",
+        "IND Lanjut": "MEDIUM",
+        "Informatika": "MEDIUM",
+        "JEPANG": "NON_HIGH",
+        "KIM": "HIGH",
+        "KKA": "NON_HIGH",
+        "MAT": "HIGH",
+        "MAT P": "HIGH",
+        "PJOK": "LOW",
+        "PPKn": "NON_HIGH",
+        "SB": "LOW",
+        "SEJARAH": "NON_HIGH",
+        "SOS": "NON_HIGH"
+      },
+      "XI": {
+        "AGM": "NON_HIGH",
+        "BIG": "MEDIUM",
+        "BIG L": "MEDIUM",
+        "BIN": "MEDIUM",
+        "BIO": "HIGH",
+        "BK": "NON_HIGH",
+        "EKO": "MEDIUM",
+        "FIS": "HIGH",
+        "GEO": "NON_HIGH",
+        "IND Lanjut": "MEDIUM",
+        "Informatika": "MEDIUM",
+        "JEPANG": "NON_HIGH",
+        "KIM": "HIGH",
+        "KKA": "NON_HIGH",
+        "MAT": "HIGH",
+        "MAT P": "HIGH",
+        "PJOK": "LOW",
+        "PPKn": "NON_HIGH",
+        "SB": "LOW",
+        "SEJARAH": "NON_HIGH",
+        "SOS": "NON_HIGH"
+      },
+      "XII": {
+        "AGM": "NON_HIGH",
+        "BIG": "MEDIUM",
+        "BIG L": "MEDIUM",
+        "BIN": "MEDIUM",
+        "BIO": "MEDIUM",
+        "BK": "NON_HIGH",
+        "EKO": "NON_HIGH",
+        "FIS": "HIGH",
+        "GEO": "NON_HIGH",
+        "IND Lanjut": "MEDIUM",
+        "Informatika": "MEDIUM",
+        "JEPANG": "NON_HIGH",
+        "KIM": "HIGH",
+        "KKA": "NON_HIGH",
+        "MAT": "HIGH",
+        "MAT P": "HIGH",
+        "PJOK": "LOW",
+        "PPKn": "NON_HIGH",
+        "SB": "LOW",
+        "SEJARAH": "NON_HIGH",
+        "SOS": "NON_HIGH"
+      }
+    },
+    "daily_limit": 1,
+    "mapping_notes": [
+      "HIGH membership follows the complete user-supplied HIGH list per grade.",
+      "Other unlisted subjects are NON_HIGH for SC3; no MEDIUM/LOW category is fabricated.",
+      "MAT/MAT P, BIG/BIG L, BIN/IND Lanjut share difficulty families only; SC2 and source IDs stay distinct."
+    ],
+    "subject_families": {
+      "AGM": "AGM",
+      "BIG": "Bahasa Inggris",
+      "BIG L": "Bahasa Inggris",
+      "BIN": "Bahasa Indonesia",
+      "BIO": "Biologi",
+      "BK": "BK",
+      "EKO": "EKO",
+      "FIS": "Fisika",
+      "GEO": "GEO",
+      "IND Lanjut": "Bahasa Indonesia",
+      "Informatika": "Informatika",
+      "JEPANG": "JEPANG",
+      "KIM": "Kimia",
+      "KKA": "KKA",
+      "MAT": "Matematika",
+      "MAT P": "Matematika",
+      "PJOK": "PJOK",
+      "PPKn": "PPKn",
+      "SB": "SB",
+      "SEJARAH": "SEJARAH",
+      "SOS": "SOS"
+    }
+  },
+  "weights": {
+    "SC1": 0.25,
+    "SC2": 0.25,
+    "SC3": 0.5
+  },
+  "normalization": {
+    "method": "divide_by_upper_bound",
+    "source": "User reply: every component normalized against theoretical dataset upper bound, then weighted",
+    "upper_bounds": {
+      "SC1": 2146,
+      "SC2": 126,
+      "SC3": 155
+    }
+  },
+  "additional_constraints": {},
+  "friday_jp_limits": {
+    "X": 9,
+    "XI": 7,
+    "XII": 7
+  },
+  "friday_jp_limits_source": "User requirement 2026-09-24 (corrected): last allowed Friday period per grade as HC7 hard constraint row check; XI-XII may not occupy Friday periods 8-10 (limit 7), X may not go past period 9 (limit 9)",
+  "notes": [
+    "Original school dataset preserved, including source baseline collision.",
+    "Existing synchronized multi-teacher model retained as user-approved research assumption.",
+    "School operational confirmation remains unverified; no fabricated interview evidence."
+  ],
+  "dataset_finalized": true,
+  "weights_ratio": {
+    "SC1": 1,
+    "SC2": 1,
+    "SC3": 2
+  },
+  "finalization_scope": "COMPUTATIONAL_STUDY_NOT_SCHOOL_CONFIRMATION",
+  "class_start_first_kbm": true,
+  "class_continuity_source": "Explicit user clarification: start at first KBM and continuous until last lesson; breaks/fixed activities excluded. Early finish permitted."
+}

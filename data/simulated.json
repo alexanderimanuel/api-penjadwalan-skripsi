@@ -1,0 +1,318 @@
+{
+  "dataset_version": "SYNTHETIC-1",
+  "ruleset_version": "ASSUMPTIONS-1",
+  "synthetic": true,
+  "description": "Artificial demonstration only; not SMA Negeri 8 Malang data.",
+  "days": [
+    {
+      "id": "Mon",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "Tue",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "Wed",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "Thu",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "id": "Fri",
+      "periods": [
+        1,
+        2,
+        3,
+        4,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "teachers": [
+    {
+      "id": "T1",
+      "unavailable": []
+    },
+    {
+      "id": "T2",
+      "unavailable": []
+    },
+    {
+      "id": "T3",
+      "unavailable": []
+    },
+    {
+      "id": "T4",
+      "unavailable": []
+    }
+  ],
+  "classes": [
+    "C1",
+    "C2",
+    "C3"
+  ],
+  "subjects": [
+    "S1",
+    "S2",
+    "S3",
+    "S4"
+  ],
+  "assignments": [
+    {
+      "id": "A1-1",
+      "teacher_id": "T1",
+      "class_id": "C1",
+      "subject_id": "S1",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A1-2",
+      "teacher_id": "T2",
+      "class_id": "C1",
+      "subject_id": "S2",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A1-3",
+      "teacher_id": "T3",
+      "class_id": "C1",
+      "subject_id": "S3",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A1-4",
+      "teacher_id": "T4",
+      "class_id": "C1",
+      "subject_id": "S4",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A2-1",
+      "teacher_id": "T1",
+      "class_id": "C2",
+      "subject_id": "S1",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A2-2",
+      "teacher_id": "T2",
+      "class_id": "C2",
+      "subject_id": "S2",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A2-3",
+      "teacher_id": "T3",
+      "class_id": "C2",
+      "subject_id": "S3",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A2-4",
+      "teacher_id": "T4",
+      "class_id": "C2",
+      "subject_id": "S4",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A3-1",
+      "teacher_id": "T1",
+      "class_id": "C3",
+      "subject_id": "S1",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A3-2",
+      "teacher_id": "T2",
+      "class_id": "C3",
+      "subject_id": "S2",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A3-3",
+      "teacher_id": "T3",
+      "class_id": "C3",
+      "subject_id": "S3",
+      "weekly_jp": 4
+    },
+    {
+      "id": "A3-4",
+      "teacher_id": "T4",
+      "class_id": "C3",
+      "subject_id": "S4",
+      "weekly_jp": 4
+    }
+  ],
+  "events": [
+    {
+      "id": "A1-1-0",
+      "assignment_id": "A1-1",
+      "duration_jp": 2
+    },
+    {
+      "id": "A1-1-1",
+      "assignment_id": "A1-1",
+      "duration_jp": 2
+    },
+    {
+      "id": "A1-2-0",
+      "assignment_id": "A1-2",
+      "duration_jp": 2
+    },
+    {
+      "id": "A1-2-1",
+      "assignment_id": "A1-2",
+      "duration_jp": 2
+    },
+    {
+      "id": "A1-3-0",
+      "assignment_id": "A1-3",
+      "duration_jp": 2
+    },
+    {
+      "id": "A1-3-1",
+      "assignment_id": "A1-3",
+      "duration_jp": 2
+    },
+    {
+      "id": "A1-4-0",
+      "assignment_id": "A1-4",
+      "duration_jp": 2
+    },
+    {
+      "id": "A1-4-1",
+      "assignment_id": "A1-4",
+      "duration_jp": 2
+    },
+    {
+      "id": "A2-1-0",
+      "assignment_id": "A2-1",
+      "duration_jp": 2
+    },
+    {
+      "id": "A2-1-1",
+      "assignment_id": "A2-1",
+      "duration_jp": 2
+    },
+    {
+      "id": "A2-2-0",
+      "assignment_id": "A2-2",
+      "duration_jp": 2
+    },
+    {
+      "id": "A2-2-1",
+      "assignment_id": "A2-2",
+      "duration_jp": 2
+    },
+    {
+      "id": "A2-3-0",
+      "assignment_id": "A2-3",
+      "duration_jp": 2
+    },
+    {
+      "id": "A2-3-1",
+      "assignment_id": "A2-3",
+      "duration_jp": 2
+    },
+    {
+      "id": "A2-4-0",
+      "assignment_id": "A2-4",
+      "duration_jp": 2
+    },
+    {
+      "id": "A2-4-1",
+      "assignment_id": "A2-4",
+      "duration_jp": 2
+    },
+    {
+      "id": "A3-1-0",
+      "assignment_id": "A3-1",
+      "duration_jp": 2
+    },
+    {
+      "id": "A3-1-1",
+      "assignment_id": "A3-1",
+      "duration_jp": 2
+    },
+    {
+      "id": "A3-2-0",
+      "assignment_id": "A3-2",
+      "duration_jp": 2
+    },
+    {
+      "id": "A3-2-1",
+      "assignment_id": "A3-2",
+      "duration_jp": 2
+    },
+    {
+      "id": "A3-3-0",
+      "assignment_id": "A3-3",
+      "duration_jp": 2
+    },
+    {
+      "id": "A3-3-1",
+      "assignment_id": "A3-3",
+      "duration_jp": 2
+    },
+    {
+      "id": "A3-4-0",
+      "assignment_id": "A3-4",
+      "duration_jp": 2
+    },
+    {
+      "id": "A3-4-1",
+      "assignment_id": "A3-4",
+      "duration_jp": 2
+    }
+  ],
+  "conflict_pairs": [],
+  "rules": {
+    "gap": 1,
+    "daily": 2,
+    "preference": 1,
+    "spread": 3,
+    "daily_limit": 2
+  }
+}

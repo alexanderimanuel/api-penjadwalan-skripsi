@@ -1,0 +1,21 @@
+{
+  "method_version": "sa-feasible-warm-start-v1",
+  "purpose": "USER_REQUESTED_THREE_SA_RECOMMENDATIONS_NOT_180_RUN_MAIN_EXPERIMENT",
+  "initialization": "Independently validated repaired school baseline shared by all seeds",
+  "neighborhood": "MOVE/SWAP with feasibility screening before Metropolis; search is restricted to H=0",
+  "objective": "Unchanged F=2H+S; H=0 within feasible search",
+  "alpha": 0.95,
+  "L_multiplier": 1,
+  "max_evaluations": 100000,
+  "p0": 0.8,
+  "calibration_samples": 200,
+  "Tmin": 0.001,
+  "stagnation_limit": 20000,
+  "max_candidate_attempts": 50,
+  "swap_probability": 0.5,
+  "seeds": [2000,2001,2002,2003,2004,2005,2006,2007,2008,2009],
+  "selection": {"count":3,"minimum_distance_fraction":0.05,"canonicalization":"multiset placements within identical immutable assignment groups","pool":"best solution per completed SA run; initial unchanged solution excluded"},
+  "stop_cohort_when": "Three independent-validator-approved, pairwise-diverse SA best solutions available",
+  "authority": "User explicitly requested three recommendations obtained using SA after diagnosis and explanation that a warm start is a methodology revision.",
+  "prior_frozen_artifacts": "Preserved; this is a separate method and output cohort, not a replacement of old run results."
+}

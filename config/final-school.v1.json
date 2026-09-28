@@ -1,0 +1,140 @@
+{
+  "rules_version": "final-methodology-2026-09-21-v1",
+  "weights_version": "user-1-1-2-2026-09-21",
+  "normalization_version": "theoretical-bounds-v1",
+  "reviewed_for_dataset": true,
+  "assignment_semantics_decision": {
+    "status": "EXPLICIT_EXISTING_WORKING_ASSUMPTION_NOT_SCHOOL_CONFIRMED",
+    "source": "docs/Tahap-08-Pemodelan-Operasional.md",
+    "value": "one class event, all recorded teachers synchronized; original source issue retained"
+  },
+  "difficulty": {
+    "version": "user-grade-family-2026-09-21-v1",
+    "source": "Two explicit user replies in current task on 2026-09-21; not represented as signed interview",
+    "by_grade": {
+      "X": {
+        "AGM": "NON_HIGH",
+        "BIG": "MEDIUM",
+        "BIG L": "MEDIUM",
+        "BIN": "MEDIUM",
+        "BIO": "MEDIUM",
+        "BK": "NON_HIGH",
+        "EKO": "NON_HIGH",
+        "FIS": "HIGH",
+        "GEO": "NON_HIGH",
+        "IND Lanjut": "MEDIUM",
+        "Informatika": "MEDIUM",
+        "JEPANG": "NON_HIGH",
+        "KIM": "HIGH",
+        "KKA": "NON_HIGH",
+        "MAT": "HIGH",
+        "MAT P": "HIGH",
+        "PJOK": "LOW",
+        "PPKn": "NON_HIGH",
+        "SB": "LOW",
+        "SEJARAH": "NON_HIGH",
+        "SOS": "NON_HIGH"
+      },
+      "XI": {
+        "AGM": "NON_HIGH",
+        "BIG": "MEDIUM",
+        "BIG L": "MEDIUM",
+        "BIN": "MEDIUM",
+        "BIO": "HIGH",
+        "BK": "NON_HIGH",
+        "EKO": "MEDIUM",
+        "FIS": "HIGH",
+        "GEO": "NON_HIGH",
+        "IND Lanjut": "MEDIUM",
+        "Informatika": "MEDIUM",
+        "JEPANG": "NON_HIGH",
+        "KIM": "HIGH",
+        "KKA": "NON_HIGH",
+        "MAT": "HIGH",
+        "MAT P": "HIGH",
+        "PJOK": "LOW",
+        "PPKn": "NON_HIGH",
+        "SB": "LOW",
+        "SEJARAH": "NON_HIGH",
+        "SOS": "NON_HIGH"
+      },
+      "XII": {
+        "AGM": "NON_HIGH",
+        "BIG": "MEDIUM",
+        "BIG L": "MEDIUM",
+        "BIN": "MEDIUM",
+        "BIO": "MEDIUM",
+        "BK": "NON_HIGH",
+        "EKO": "NON_HIGH",
+        "FIS": "HIGH",
+        "GEO": "NON_HIGH",
+        "IND Lanjut": "MEDIUM",
+        "Informatika": "MEDIUM",
+        "JEPANG": "NON_HIGH",
+        "KIM": "HIGH",
+        "KKA": "NON_HIGH",
+        "MAT": "HIGH",
+        "MAT P": "HIGH",
+        "PJOK": "LOW",
+        "PPKn": "NON_HIGH",
+        "SB": "LOW",
+        "SEJARAH": "NON_HIGH",
+        "SOS": "NON_HIGH"
+      }
+    },
+    "daily_limit": 1,
+    "mapping_notes": [
+      "HIGH membership follows the complete user-supplied HIGH list per grade.",
+      "Other unlisted subjects are NON_HIGH for SC3; no MEDIUM/LOW category is fabricated.",
+      "MAT/MAT P, BIG/BIG L, BIN/IND Lanjut share difficulty families only; SC2 and source IDs stay distinct."
+    ],
+    "subject_families": {
+      "AGM": "AGM",
+      "BIG": "Bahasa Inggris",
+      "BIG L": "Bahasa Inggris",
+      "BIN": "Bahasa Indonesia",
+      "BIO": "Biologi",
+      "BK": "BK",
+      "EKO": "EKO",
+      "FIS": "Fisika",
+      "GEO": "GEO",
+      "IND Lanjut": "Bahasa Indonesia",
+      "Informatika": "Informatika",
+      "JEPANG": "JEPANG",
+      "KIM": "Kimia",
+      "KKA": "KKA",
+      "MAT": "Matematika",
+      "MAT P": "Matematika",
+      "PJOK": "PJOK",
+      "PPKn": "PPKn",
+      "SB": "SB",
+      "SEJARAH": "SEJARAH",
+      "SOS": "SOS"
+    }
+  },
+  "weights": {
+    "SC1": 0.25,
+    "SC2": 0.25,
+    "SC3": 0.5
+  },
+  "normalization": {
+    "method": "divide_by_upper_bound",
+    "source": "User reply: every component normalized against theoretical dataset upper bound, then weighted",
+    "upper_bounds": {
+      "SC1": 2146,
+      "SC2": 126,
+      "SC3": 155
+    }
+  },
+  "additional_constraints": {},
+  "notes": [
+    "No teacher unavailability or room constraints inferred.",
+    "School dataset semantics remain working assumptions; main experiments disabled pending validation/finalization."
+  ],
+  "dataset_finalized": false,
+  "weights_ratio": {
+    "SC1": 1,
+    "SC2": 1,
+    "SC3": 2
+  }
+}

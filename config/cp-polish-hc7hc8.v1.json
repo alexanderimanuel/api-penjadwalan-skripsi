@@ -1,0 +1,26 @@
+{
+  "alpha": 0.95,
+  "authority": "User-approved phase 2: CP-SAT feasible starts (30 seeds) each polished by the proven warm-start SA; selection identical to v2/v3-180.",
+  "initialization": "Per-seed CP-SAT feasibility placements (results/cp-construct/v1/attempt-seed-*.json), each independently validator-approved H=0; no school timetable used",
+  "L_multiplier": 1,
+  "max_candidate_attempts": 50,
+  "max_evaluations": 100000,
+  "method_version": "cp-polish-warm-start-hc7hc8-v1",
+  "neighborhood": "MOVE/SWAP with feasibility screening (resource occupancy + HC7 Friday forbidden-period screen + class-hole HC8 screen) before Metropolis; search restricted to H=0 over HC1-HC8",
+  "objective": "HC1-HC8; unchanged SC1-SC3, normalization and weights (1:1:2)",
+  "p0": 0.8,
+  "calibration_samples": 200,
+  "purpose": "THIRTY_CP_STARTS_SA_POLISH_SELECT_THREE",
+  "sa_seeds": [4000, 4001, 4002, 4003, 4004, 4005, 4006, 4007, 4008, 4009, 4010, 4011, 4012, 4013, 4014, 4015, 4016, 4017, 4018, 4019, 4020, 4021, 4022, 4023, 4024, 4025, 4026, 4027, 4028, 4029],
+  "cp_seeds": [5000, 5001, 5002, 5003, 5004, 5005, 5006, 5007, 5008, 5009, 5010, 5011, 5012, 5013, 5014, 5015, 5016, 5017, 5018, 5019, 5020, 5021, 5022, 5023, 5024, 5025, 5026, 5027, 5028, 5029],
+  "selection": {
+    "canonicalization": "multiset placements within identical immutable assignment groups",
+    "count": 3,
+    "minimum_distance_fraction": 0.05,
+    "pool": "best solution per completed SA run; any unchanged CP start excluded",
+    "ranking": "S, then SC3, then SC1, then canonical ID"
+  },
+  "stagnation_limit": 20000,
+  "swap_probability": 0.5,
+  "Tmin": 0.001
+}

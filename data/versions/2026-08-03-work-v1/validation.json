@@ -1,0 +1,53 @@
+{
+  "integrity_passed": true,
+  "integrity_errors": [],
+  "reference_hard_audit": {
+    "HC1": [
+      {
+        "event_ids": [
+          "E-kelas-10-12",
+          "E-kelas-27-12"
+        ],
+        "teacher_codes": [
+          "39"
+        ],
+        "day": "rabu",
+        "overlap_minutes_since_midnight": [
+          [
+            735,
+            780
+          ]
+        ]
+      }
+    ],
+    "HC2": [],
+    "HC3": [],
+    "HC4": [],
+    "HC5": [],
+    "HC6": []
+  },
+  "reference_feasible_under_recorded_assignments": false,
+  "counts": {
+    "events": 513,
+    "teacher_evidence_links": 522,
+    "fixed_records": 54
+  },
+  "scope": "Source-reference integrity and preliminary HC audit; not the final optimization evaluator.",
+  "version": "2026-08-03-work-v1",
+  "release_status": "working_snapshot_not_final_school_validated_dataset",
+  "open_issues": [
+    "REC-GROUP-E-kelas-05-02",
+    "REC-GROUP-E-kelas-12-17",
+    "REC-GROUP-E-kelas-13-13",
+    "REC-GROUP-E-kelas-16-15",
+    "REC-GROUP-E-kelas-18-20",
+    "REC-OVERLAP-01"
+  ],
+  "decisions": {
+    "source_placements": "unchanged",
+    "multi_teacher_blocks": "one class event with all recorded teachers; semantics pending",
+    "empty_teacher": "retain zero-load identity",
+    "reference_overlap": "retain and disclose; no invented correction",
+    "final_dataset_release": "pending semantic decisions and source clarification; no school approval inferred"
+  }
+}

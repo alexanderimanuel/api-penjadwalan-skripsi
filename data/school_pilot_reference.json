@@ -1,0 +1,326 @@
+[
+  {
+    "event_id": "X-1:Mon:2",
+    "day_id": "Mon",
+    "start_period": 2,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Mon:5",
+    "day_id": "Mon",
+    "start_period": 5,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Mon:8",
+    "day_id": "Mon",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Tue:1",
+    "day_id": "Tue",
+    "start_period": 1,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Tue:4",
+    "day_id": "Tue",
+    "start_period": 4,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-1:Tue:6",
+    "day_id": "Tue",
+    "start_period": 6,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-1:Tue:8",
+    "day_id": "Tue",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Wed:1",
+    "day_id": "Wed",
+    "start_period": 1,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-1:Wed:3",
+    "day_id": "Wed",
+    "start_period": 3,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-1:Wed:5",
+    "day_id": "Wed",
+    "start_period": 5,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-1:Wed:7",
+    "day_id": "Wed",
+    "start_period": 7,
+    "duration_jp": 1
+  },
+  {
+    "event_id": "X-1:Wed:8",
+    "day_id": "Wed",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Thu:1",
+    "day_id": "Thu",
+    "start_period": 1,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-1:Thu:3",
+    "day_id": "Thu",
+    "start_period": 3,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Thu:6",
+    "day_id": "Thu",
+    "start_period": 6,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Thu:9",
+    "day_id": "Thu",
+    "start_period": 9,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-1:Fri:2",
+    "day_id": "Fri",
+    "start_period": 2,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-1:Fri:5",
+    "day_id": "Fri",
+    "start_period": 5,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Mon:2",
+    "day_id": "Mon",
+    "start_period": 2,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Mon:5",
+    "day_id": "Mon",
+    "start_period": 5,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Mon:8",
+    "day_id": "Mon",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Tue:1",
+    "day_id": "Tue",
+    "start_period": 1,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Tue:4",
+    "day_id": "Tue",
+    "start_period": 4,
+    "duration_jp": 1
+  },
+  {
+    "event_id": "X-2:Tue:5",
+    "day_id": "Tue",
+    "start_period": 5,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Tue:8",
+    "day_id": "Tue",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Wed:1",
+    "day_id": "Wed",
+    "start_period": 1,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Wed:4",
+    "day_id": "Wed",
+    "start_period": 4,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Wed:7",
+    "day_id": "Wed",
+    "start_period": 7,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-2:Wed:9",
+    "day_id": "Wed",
+    "start_period": 9,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-2:Thu:1",
+    "day_id": "Thu",
+    "start_period": 1,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-2:Thu:3",
+    "day_id": "Thu",
+    "start_period": 3,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-2:Thu:5",
+    "day_id": "Thu",
+    "start_period": 5,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Thu:8",
+    "day_id": "Thu",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-2:Fri:2",
+    "day_id": "Fri",
+    "start_period": 2,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-2:Fri:4",
+    "day_id": "Fri",
+    "start_period": 4,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-2:Fri:6",
+    "day_id": "Fri",
+    "start_period": 6,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-3:Mon:2",
+    "day_id": "Mon",
+    "start_period": 2,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-3:Mon:4",
+    "day_id": "Mon",
+    "start_period": 4,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-3:Mon:6",
+    "day_id": "Mon",
+    "start_period": 6,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Mon:9",
+    "day_id": "Mon",
+    "start_period": 9,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-3:Tue:1",
+    "day_id": "Tue",
+    "start_period": 1,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-3:Tue:3",
+    "day_id": "Tue",
+    "start_period": 3,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-3:Tue:5",
+    "day_id": "Tue",
+    "start_period": 5,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Tue:8",
+    "day_id": "Tue",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Wed:1",
+    "day_id": "Wed",
+    "start_period": 1,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-3:Wed:3",
+    "day_id": "Wed",
+    "start_period": 3,
+    "duration_jp": 2
+  },
+  {
+    "event_id": "X-3:Wed:5",
+    "day_id": "Wed",
+    "start_period": 5,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Wed:8",
+    "day_id": "Wed",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Thu:1",
+    "day_id": "Thu",
+    "start_period": 1,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Thu:4",
+    "day_id": "Thu",
+    "start_period": 4,
+    "duration_jp": 1
+  },
+  {
+    "event_id": "X-3:Thu:5",
+    "day_id": "Thu",
+    "start_period": 5,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Thu:8",
+    "day_id": "Thu",
+    "start_period": 8,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Fri:2",
+    "day_id": "Fri",
+    "start_period": 2,
+    "duration_jp": 3
+  },
+  {
+    "event_id": "X-3:Fri:5",
+    "day_id": "Fri",
+    "start_period": 5,
+    "duration_jp": 3
+  }
+]
